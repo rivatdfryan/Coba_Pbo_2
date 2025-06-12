@@ -32,18 +32,22 @@
             label1 = new Label();
             label2 = new Label();
             panel2 = new Panel();
-            label7 = new Label();
+            btnTanggal = new Button();
+            lblSelamatDatangnamaKasir = new Label();
             textBox1 = new TextBox();
-            label6 = new Label();
+            lblPilihTanggalHariIni = new Label();
             panel10 = new Panel();
             label4 = new Label();
             panel11 = new Panel();
+            lblStatusPresensi = new Label();
             panel13 = new Panel();
             label5 = new Label();
             panel8 = new Panel();
+            lblTotalPendapatanBakery = new Label();
             panel12 = new Panel();
             label3 = new Label();
             panel9 = new Panel();
+            lblTotalPenjualanProduk = new Label();
             lblJudul = new Label();
             panel3 = new Panel();
             btnKonfirmasiPedanan = new Button();
@@ -62,7 +66,9 @@
             panel10.SuspendLayout();
             panel11.SuspendLayout();
             panel13.SuspendLayout();
+            panel8.SuspendLayout();
             panel12.SuspendLayout();
+            panel9.SuspendLayout();
             panel3.SuspendLayout();
             SuspendLayout();
             // 
@@ -87,9 +93,10 @@
             // panel2
             // 
             panel2.BackColor = Color.FromArgb(251, 238, 215);
-            panel2.Controls.Add(label7);
+            panel2.Controls.Add(btnTanggal);
+            panel2.Controls.Add(lblSelamatDatangnamaKasir);
             panel2.Controls.Add(textBox1);
-            panel2.Controls.Add(label6);
+            panel2.Controls.Add(lblPilihTanggalHariIni);
             panel2.Controls.Add(panel10);
             panel2.Controls.Add(panel11);
             panel2.Controls.Add(panel8);
@@ -104,15 +111,25 @@
             panel2.Size = new Size(1263, 683);
             panel2.TabIndex = 5;
             // 
-            // label7
+            // btnTanggal
             // 
-            label7.AutoSize = true;
-            label7.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label7.Location = new Point(634, 82);
-            label7.Name = "label7";
-            label7.Size = new Size(235, 20);
-            label7.TabIndex = 13;
-            label7.Text = "Selamat Datang Nama Kasir";
+            btnTanggal.Location = new Point(603, 136);
+            btnTanggal.Name = "btnTanggal";
+            btnTanggal.Size = new Size(75, 23);
+            btnTanggal.TabIndex = 14;
+            btnTanggal.Text = "button1";
+            btnTanggal.UseVisualStyleBackColor = true;
+            btnTanggal.Click += btnTanggal_Click;
+            // 
+            // lblSelamatDatangnamaKasir
+            // 
+            lblSelamatDatangnamaKasir.AutoSize = true;
+            lblSelamatDatangnamaKasir.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblSelamatDatangnamaKasir.Location = new Point(634, 82);
+            lblSelamatDatangnamaKasir.Name = "lblSelamatDatangnamaKasir";
+            lblSelamatDatangnamaKasir.Size = new Size(235, 20);
+            lblSelamatDatangnamaKasir.TabIndex = 13;
+            lblSelamatDatangnamaKasir.Text = "Selamat Datang Nama Kasir";
             // 
             // textBox1
             // 
@@ -122,15 +139,15 @@
             textBox1.Size = new Size(148, 26);
             textBox1.TabIndex = 12;
             // 
-            // label6
+            // lblPilihTanggalHariIni
             // 
-            label6.AutoSize = true;
-            label6.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label6.Location = new Point(269, 136);
-            label6.Name = "label6";
-            label6.Size = new Size(174, 20);
-            label6.TabIndex = 11;
-            label6.Text = "Pilih Tanggal Hari Ini";
+            lblPilihTanggalHariIni.AutoSize = true;
+            lblPilihTanggalHariIni.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblPilihTanggalHariIni.Location = new Point(269, 136);
+            lblPilihTanggalHariIni.Name = "lblPilihTanggalHariIni";
+            lblPilihTanggalHariIni.Size = new Size(174, 20);
+            lblPilihTanggalHariIni.TabIndex = 11;
+            lblPilihTanggalHariIni.Text = "Pilih Tanggal Hari Ini";
             // 
             // panel10
             // 
@@ -155,11 +172,24 @@
             // panel11
             // 
             panel11.BackColor = Color.FromArgb(183, 150, 107);
+            panel11.Controls.Add(lblStatusPresensi);
             panel11.Controls.Add(panel13);
             panel11.Location = new Point(946, 173);
             panel11.Name = "panel11";
             panel11.Size = new Size(294, 483);
             panel11.TabIndex = 10;
+            // 
+            // lblStatusPresensi
+            // 
+            lblStatusPresensi.AutoSize = true;
+            lblStatusPresensi.Font = new Font("Segoe UI", 24F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblStatusPresensi.Location = new Point(16, 127);
+            lblStatusPresensi.Name = "lblStatusPresensi";
+            lblStatusPresensi.Size = new Size(29, 45);
+            lblStatusPresensi.TabIndex = 10;
+            lblStatusPresensi.Text = ".";
+            lblStatusPresensi.TextAlign = ContentAlignment.MiddleCenter;
+            lblStatusPresensi.Click += lblStatusPresensi_Click_1;
             // 
             // panel13
             // 
@@ -184,10 +214,23 @@
             // panel8
             // 
             panel8.BackColor = Color.FromArgb(183, 150, 107);
+            panel8.Controls.Add(lblTotalPendapatanBakery);
             panel8.Location = new Point(607, 225);
             panel8.Name = "panel8";
             panel8.Size = new Size(298, 431);
             panel8.TabIndex = 6;
+            // 
+            // lblTotalPendapatanBakery
+            // 
+            lblTotalPendapatanBakery.AutoSize = true;
+            lblTotalPendapatanBakery.Font = new Font("Segoe UI", 24F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblTotalPendapatanBakery.Location = new Point(11, 75);
+            lblTotalPendapatanBakery.Name = "lblTotalPendapatanBakery";
+            lblTotalPendapatanBakery.Size = new Size(38, 45);
+            lblTotalPendapatanBakery.TabIndex = 0;
+            lblTotalPendapatanBakery.Text = " .";
+            lblTotalPendapatanBakery.TextAlign = ContentAlignment.MiddleCenter;
+            lblTotalPendapatanBakery.Click += lblTotalPendapatanBakery_Click_1;
             // 
             // panel12
             // 
@@ -212,10 +255,23 @@
             // panel9
             // 
             panel9.BackColor = Color.FromArgb(183, 150, 107);
+            panel9.Controls.Add(lblTotalPenjualanProduk);
             panel9.Location = new Point(267, 225);
             panel9.Name = "panel9";
             panel9.Size = new Size(294, 431);
             panel9.TabIndex = 5;
+            // 
+            // lblTotalPenjualanProduk
+            // 
+            lblTotalPenjualanProduk.AutoSize = true;
+            lblTotalPenjualanProduk.Font = new Font("Segoe UI", 24F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblTotalPenjualanProduk.Location = new Point(13, 75);
+            lblTotalPenjualanProduk.Name = "lblTotalPenjualanProduk";
+            lblTotalPenjualanProduk.Size = new Size(38, 45);
+            lblTotalPenjualanProduk.TabIndex = 0;
+            lblTotalPenjualanProduk.Text = " .";
+            lblTotalPenjualanProduk.TextAlign = ContentAlignment.MiddleCenter;
+            lblTotalPenjualanProduk.Click += lblTotalPenjualanProduk_Click_1;
             // 
             // lblJudul
             // 
@@ -273,13 +329,14 @@
             // 
             btnKatalog.BackColor = Color.FromArgb(251, 238, 215);
             btnKatalog.Font = new Font("Segoe UI", 15F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnKatalog.Location = new Point(38, 410);
+            btnKatalog.Location = new Point(38, 415);
             btnKatalog.Name = "btnKatalog";
             btnKatalog.Size = new Size(152, 48);
             btnKatalog.TabIndex = 7;
             btnKatalog.Text = "Katalog  ";
             btnKatalog.TextAlign = ContentAlignment.MiddleRight;
             btnKatalog.UseVisualStyleBackColor = false;
+            btnKatalog.Click += btnKatalog_Click;
             // 
             // panel5
             // 
@@ -302,6 +359,7 @@
             button4.Text = "Kasir    ";
             button4.TextAlign = ContentAlignment.MiddleRight;
             button4.UseVisualStyleBackColor = false;
+            button4.Click += button4_Click;
             // 
             // panel15
             // 
@@ -334,6 +392,7 @@
             btnAbsen.Text = "Absensi ";
             btnAbsen.TextAlign = ContentAlignment.MiddleRight;
             btnAbsen.UseVisualStyleBackColor = false;
+            btnAbsen.Click += btnAbsen_Click;
             // 
             // btnHome
             // 
@@ -389,10 +448,15 @@
             panel10.ResumeLayout(false);
             panel10.PerformLayout();
             panel11.ResumeLayout(false);
+            panel11.PerformLayout();
             panel13.ResumeLayout(false);
             panel13.PerformLayout();
+            panel8.ResumeLayout(false);
+            panel8.PerformLayout();
             panel12.ResumeLayout(false);
             panel12.PerformLayout();
+            panel9.ResumeLayout(false);
+            panel9.PerformLayout();
             panel3.ResumeLayout(false);
             ResumeLayout(false);
             PerformLayout();
@@ -426,8 +490,12 @@
         private Label label5;
         private Panel panel8;
         private TextBox textBox1;
-        private Label label6;
-        private Label label7;
+        private Label lblPilihTanggalHariIni;
+        private Label lblSelamatDatangnamaKasir;
         private Button btnKonfirmasiPedanan;
+        private Label lblStatusPresensi;
+        private Label lblTotalPendapatanBakery;
+        private Label lblTotalPenjualanProduk;
+        private Button btnTanggal;
     }
 }

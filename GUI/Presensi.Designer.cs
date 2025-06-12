@@ -30,10 +30,11 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Presensi));
             panel2 = new Panel();
+            txtTanggalhariIni = new TextBox();
             panel12 = new Panel();
-            lblProfil = new Label();
+            lblProfilNamaKaryawan = new Label();
             panel9 = new Panel();
-            button1 = new Button();
+            btnPresensi = new Button();
             label1 = new Label();
             lblJudul = new Label();
             panel3 = new Panel();
@@ -47,7 +48,9 @@
             btnHome = new Button();
             panel4 = new Panel();
             panel1 = new Panel();
-            textBox1 = new TextBox();
+            txtJamMasuk = new TextBox();
+            txtJamKeluar = new TextBox();
+            btnTanggal = new Button();
             panel2.SuspendLayout();
             panel12.SuspendLayout();
             panel9.SuspendLayout();
@@ -57,7 +60,10 @@
             // panel2
             // 
             panel2.BackColor = Color.FromArgb(251, 238, 215);
-            panel2.Controls.Add(textBox1);
+            panel2.Controls.Add(btnTanggal);
+            panel2.Controls.Add(txtJamKeluar);
+            panel2.Controls.Add(txtJamMasuk);
+            panel2.Controls.Add(txtTanggalhariIni);
             panel2.Controls.Add(panel12);
             panel2.Controls.Add(panel9);
             panel2.Controls.Add(label1);
@@ -70,45 +76,56 @@
             panel2.Size = new Size(1263, 683);
             panel2.TabIndex = 6;
             // 
+            // txtTanggalhariIni
+            // 
+            txtTanggalhariIni.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            txtTanggalhariIni.Location = new Point(439, 166);
+            txtTanggalhariIni.Name = "txtTanggalhariIni";
+            txtTanggalhariIni.Size = new Size(149, 26);
+            txtTanggalhariIni.TabIndex = 7;
+            txtTanggalhariIni.TextChanged += txtTanggalhariIni_TextChanged;
+            // 
             // panel12
             // 
             panel12.BackColor = Color.FromArgb(80, 43, 15);
-            panel12.Controls.Add(lblProfil);
+            panel12.Controls.Add(lblProfilNamaKaryawan);
             panel12.Location = new Point(439, 235);
             panel12.Name = "panel12";
             panel12.Size = new Size(655, 63);
             panel12.TabIndex = 6;
             // 
-            // lblProfil
+            // lblProfilNamaKaryawan
             // 
-            lblProfil.AutoSize = true;
-            lblProfil.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            lblProfil.ForeColor = Color.FromArgb(251, 238, 215);
-            lblProfil.Location = new Point(163, 23);
-            lblProfil.Name = "lblProfil";
-            lblProfil.Size = new Size(361, 25);
-            lblProfil.TabIndex = 8;
-            lblProfil.Text = "Nama Karyawan : Nama Kasir";
+            lblProfilNamaKaryawan.AutoSize = true;
+            lblProfilNamaKaryawan.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblProfilNamaKaryawan.ForeColor = Color.FromArgb(251, 238, 215);
+            lblProfilNamaKaryawan.Location = new Point(163, 23);
+            lblProfilNamaKaryawan.Name = "lblProfilNamaKaryawan";
+            lblProfilNamaKaryawan.Size = new Size(361, 25);
+            lblProfilNamaKaryawan.TabIndex = 8;
+            lblProfilNamaKaryawan.Text = "Nama Karyawan : Nama Kasir";
+            lblProfilNamaKaryawan.Click += lblProfilNamaKaryawan_Click;
             // 
             // panel9
             // 
             panel9.BackColor = Color.FromArgb(183, 150, 107);
-            panel9.Controls.Add(button1);
+            panel9.Controls.Add(btnPresensi);
             panel9.Location = new Point(439, 289);
             panel9.Name = "panel9";
             panel9.Size = new Size(655, 282);
             panel9.TabIndex = 5;
             // 
-            // button1
+            // btnPresensi
             // 
-            button1.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.ForeColor = Color.FromArgb(128, 64, 0);
-            button1.Location = new Point(257, 97);
-            button1.Name = "button1";
-            button1.Size = new Size(197, 67);
-            button1.TabIndex = 0;
-            button1.Text = "Presensi";
-            button1.UseVisualStyleBackColor = true;
+            btnPresensi.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnPresensi.ForeColor = Color.FromArgb(128, 64, 0);
+            btnPresensi.Location = new Point(257, 97);
+            btnPresensi.Name = "btnPresensi";
+            btnPresensi.Size = new Size(197, 67);
+            btnPresensi.TabIndex = 0;
+            btnPresensi.Text = "Presensi";
+            btnPresensi.UseVisualStyleBackColor = true;
+            btnPresensi.Click += btnPresensi_Click;
             // 
             // label1
             // 
@@ -119,7 +136,6 @@
             label1.Size = new Size(136, 20);
             label1.TabIndex = 0;
             label1.Text = "Tanggal Hari Ini";
-            label1.Click += label1_Click;
             // 
             // lblJudul
             // 
@@ -236,7 +252,6 @@
             btnHome.Text = "Home  ";
             btnHome.TextAlign = ContentAlignment.MiddleRight;
             btnHome.UseVisualStyleBackColor = false;
-            btnHome.Click += btnHome_Click;
             // 
             // panel4
             // 
@@ -254,13 +269,31 @@
             panel1.Size = new Size(0, 0);
             panel1.TabIndex = 0;
             // 
-            // textBox1
+            // txtJamMasuk
             // 
-            textBox1.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            textBox1.Location = new Point(439, 166);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(149, 26);
-            textBox1.TabIndex = 7;
+            txtJamMasuk.Location = new Point(696, 172);
+            txtJamMasuk.Name = "txtJamMasuk";
+            txtJamMasuk.Size = new Size(100, 20);
+            txtJamMasuk.TabIndex = 8;
+            txtJamMasuk.TextChanged += txtJamMasuk_TextChanged;
+            // 
+            // txtJamKeluar
+            // 
+            txtJamKeluar.Location = new Point(920, 180);
+            txtJamKeluar.Name = "txtJamKeluar";
+            txtJamKeluar.Size = new Size(100, 20);
+            txtJamKeluar.TabIndex = 9;
+            txtJamKeluar.TextChanged += txtJamKeluar_TextChanged;
+            // 
+            // btnTanggal
+            // 
+            btnTanggal.Location = new Point(1082, 177);
+            btnTanggal.Name = "btnTanggal";
+            btnTanggal.Size = new Size(75, 23);
+            btnTanggal.TabIndex = 10;
+            btnTanggal.Text = "button1";
+            btnTanggal.UseVisualStyleBackColor = true;
+            btnTanggal.Click += btnTanggal_Click;
             // 
             // Presensi
             // 
@@ -283,7 +316,7 @@
 
         private Panel panel2;
         private Panel panel12;
-        private Label lblProfil;
+        private Label lblProfilNamaKaryawan;
         private Panel panel9;
         private Label lblJudul;
         private Panel panel3;
@@ -298,7 +331,10 @@
         private Panel panel4;
         private Panel panel1;
         private Label label1;
-        private Button button1;
-        private TextBox textBox1;
+        private Button btnPresensi;
+        private TextBox txtTanggalhariIni;
+        private Button btnTanggal;
+        private TextBox txtJamKeluar;
+        private TextBox txtJamMasuk;
     }
 }

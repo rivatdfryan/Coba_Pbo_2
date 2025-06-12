@@ -197,3 +197,7 @@ C:\coba_pbo_bakery\obj\Debug\net8.0-windows\Kinar_Bakery.pdb
 C:\coba_pbo_bakery\obj\Debug\net8.0-windows\Kinar_Bakery.genruntimeconfig.cache
 C:\coba_pbo_bakery\obj\Debug\net8.0-windows\ref\Kinar_Bakery.dll
 C:\coba_pbo_bakery\obj\Debug\net8.0-windows\Kinar_Bakery.GUI.KonfirmasiPesanan.resources
+C:\Users\acer\source\repos\Bakery_PBO\PROJEK AKHIR\obj\Debug\net8.0-windows\Kinar_Bakery.GUI.JagaKasir.resources
+C:\Users\acer\source\repos\Bakery_PBO\PROJEK AKHIR\obj\Debug\net8.0-windows\Kinar_Bakery.GUI.KonfirmasiPesanan.resources
+C:\Users\acer\source\repos\Bakery_PBO\PROJEK AKHIR\obj\Debug\net8.0-windows\Kinar_Bakery.GUI.MonitoringKaryawan.resources
+C:\Users\acer\source\repos\Bakery_PBO\PROJEK AKHIR\obj\Debug\net8.0-windows\Kinar_Bakery.GUI.Presensi.resources

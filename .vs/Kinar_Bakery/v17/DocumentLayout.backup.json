@@ -1,217 +1,217 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Coba_PBO_Bakery\\",
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\model\\konteksproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\konteksproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\bestseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\bestseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\controller\\kontrolerproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\kontrolerproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Coba_PBO_Bakery\\gui\\bestseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\bestseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\katalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\katalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Coba_PBO_Bakery\\gui\\katalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\katalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Coba_PBO_Bakery\\gui\\monitoringkaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\monitoringkaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Coba_PBO_Bakery\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\controller\\kontrolerpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\kontrolerpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\koneksi_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:koneksi_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\model\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\controller\\autentikasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\autentikasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\model\\kontekspengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\kontekspengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Coba_PBO_Bakery\\gui\\laporanpenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\laporanpenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Coba_PBO_Bakery\\gui\\presensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\presensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Coba_PBO_Bakery\\gui\\laporandasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\laporandasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Coba_PBO_Bakery\\gui\\keranjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\keranjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Coba_PBO_Bakery\\gui\\jagakasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\jagakasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Coba_PBO_Bakery\\gui\\homedashboardpelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\homedashboardpelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Coba_PBO_Bakery\\gui\\homedasboardkasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\homedasboardkasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Coba_PBO_Bakery\\gui\\homedasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\homedasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\monitoringkaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\monitoringkaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\jagakasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\jagakasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\presensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\presensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\presensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\model\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\gui\\presensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\presensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\model\\pengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\pengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\gui\\homedasboardkasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\homedasboardkasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\model\\itemkeranjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\itemkeranjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\model\\kontekspresensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\kontekspresensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\model\\katalogproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\katalogproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\homedashboardpelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\homedashboardpelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\keranjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\keranjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\homedasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\homedasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\model\\kontekstransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\kontekstransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\laporanpenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\laporanpenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\laporandasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\laporandasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\keranjang1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\keranjang1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\homedasboardkasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\homedasboardkasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\formubahpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\formubahpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\controller\\kontrolertransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\kontrolertransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Coba_PBO_Bakery\\gui\\formubahpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\formubahpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\keranjang1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\keranjang1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Coba_PBO_Bakery\\gui\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\homedashboardpelanggan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\homedashboardpelanggan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\bestseller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\bestseller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\bestseller.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\bestseller.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\katalog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\katalog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\gui\\homedasboardkasir.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\homedasboardkasir.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\homedasboardkasir.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\coba_pbo_bakery\\resources\\paperclip.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\homedasboardkasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\homedasboardkasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\model\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\koneksi_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:koneksi_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\model\\konteksproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\konteksproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\bestseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\bestseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\controller\\kontrolerproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\kontrolerproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\gui\\bestseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\bestseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\katalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\katalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\gui\\katalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\katalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\gui\\monitoringkaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\monitoringkaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\controller\\kontrolerpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\kontrolerpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\controller\\autentikasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\autentikasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\model\\kontekspengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\kontekspengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\gui\\laporanpenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\laporanpenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\gui\\laporandasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\laporandasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\gui\\keranjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\keranjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\gui\\jagakasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\jagakasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\gui\\homedashboardpelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\homedashboardpelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\gui\\homedasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\homedasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\monitoringkaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\monitoringkaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\jagakasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\jagakasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\model\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\model\\pengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\pengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\model\\itemkeranjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\itemkeranjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\model\\kontekspresensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\kontekspresensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\model\\katalogproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\katalogproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\homedashboardpelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\homedashboardpelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\keranjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\keranjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\homedasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\homedasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\model\\kontekstransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\kontekstransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\laporanpenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\laporanpenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\laporandasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\laporandasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\keranjang1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\keranjang1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\formubahpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\formubahpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\controller\\kontrolertransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\kontrolertransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\gui\\formubahpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\formubahpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\keranjang1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\keranjang1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\gui\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\homedashboardpelanggan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\homedashboardpelanggan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\bestseller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\bestseller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\bestseller.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\bestseller.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\gui\\katalog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\katalog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\users\\acer\\source\\repos\\bakery_pbo\\projek akhir\\resources\\paperclip.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:resources\\paperclip.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
@@ -240,131 +240,205 @@
       "DocumentGroups": [
         {
           "DockedWidth": 637,
-          "SelectedChildIndex": 31,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Katalog.cs [Design]",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\Katalog.cs",
-              "RelativeDocumentMoniker": "GUI\\Katalog.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\Katalog.cs [Design]",
-              "RelativeToolTip": "GUI\\Katalog.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "HomeDasboardkasir.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\HomeDasboardkasir.cs",
+              "RelativeDocumentMoniker": "GUI\\HomeDasboardkasir.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\HomeDasboardkasir.cs [Design]",
+              "RelativeToolTip": "GUI\\HomeDasboardkasir.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T14:15:45.39Z",
+              "WhenOpened": "2025-06-09T14:46:58.851Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
+              "Title": "HomeDasboardkasir.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\HomeDasboardkasir.cs",
+              "RelativeDocumentMoniker": "GUI\\HomeDasboardkasir.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\HomeDasboardkasir.cs",
+              "RelativeToolTip": "GUI\\HomeDasboardkasir.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAASwOkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:24:53.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeDasboardkasir.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\HomeDasboardkasir.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\HomeDasboardkasir.Designer.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\HomeDasboardkasir.Designer.cs",
+              "RelativeToolTip": "GUI\\HomeDasboardkasir.Designer.cs",
+              "ViewState": "AgIAAJMBAAAAAAAAAAAowBwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:57:12.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Presensi.cs [Design]",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\Presensi.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Presensi.cs",
               "RelativeDocumentMoniker": "GUI\\Presensi.cs",
-              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Presensi.cs [Design]",
-              "RelativeToolTip": "..\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Presensi.cs [Design]",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Presensi.cs [Design]*",
+              "RelativeToolTip": "GUI\\Presensi.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T10:49:02.99Z"
+              "WhenOpened": "2025-06-10T10:49:02.99Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LaporanPenjualan.cs [Design]",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\LaporanPenjualan.cs",
-              "RelativeDocumentMoniker": "GUI\\LaporanPenjualan.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\LaporanPenjualan.cs [Design]",
-              "RelativeToolTip": "GUI\\LaporanPenjualan.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "Presensi.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Presensi.cs",
+              "RelativeDocumentMoniker": "GUI\\Presensi.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Presensi.cs*",
+              "RelativeToolTip": "GUI\\Presensi.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T14:47:15.527Z"
+              "WhenOpened": "2025-06-10T10:50:40.596Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "JagaKasir.cs [Design]",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\JagaKasir.cs",
-              "RelativeDocumentMoniker": "GUI\\JagaKasir.cs",
-              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\JagaKasir.cs [Design]",
-              "RelativeToolTip": "..\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\JagaKasir.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Model\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Model\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Model\\DatabaseConnection.cs",
+              "RelativeToolTip": "Model\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T11:21:45.075Z"
+              "WhenOpened": "2025-06-09T15:17:57.769Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "LaporanDasboardAdmin.cs [Design]",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\LaporanDasboardAdmin.cs",
-              "RelativeDocumentMoniker": "GUI\\LaporanDasboardAdmin.cs",
-              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\LaporanDasboardAdmin.cs [Design]",
-              "RelativeToolTip": "..\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\LaporanDasboardAdmin.cs [Design]",
+              "DocumentIndex": 6,
+              "Title": "Koneksi_Database.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Koneksi_Database.cs",
+              "RelativeDocumentMoniker": "Koneksi_Database.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Koneksi_Database.cs",
+              "RelativeToolTip": "Koneksi_Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T12:40:54.163Z"
+              "WhenOpened": "2025-05-28T05:15:55.407Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 7,
+              "Title": "KonteksProduk.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Model\\KonteksProduk.cs",
+              "RelativeDocumentMoniker": "Model\\KonteksProduk.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Model\\KonteksProduk.cs",
+              "RelativeToolTip": "Model\\KonteksProduk.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAiwE8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:15:19.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "HomeDashboardPelanggan.cs [Design]",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\HomeDashboardPelanggan.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\HomeDashboardPelanggan.cs",
               "RelativeDocumentMoniker": "GUI\\HomeDashboardPelanggan.cs",
               "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\HomeDashboardPelanggan.cs [Design]",
-              "RelativeToolTip": "..\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\HomeDashboardPelanggan.cs [Design]",
+              "RelativeToolTip": "GUI\\HomeDashboardPelanggan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T12:40:27.598Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "HomeDasboardkasir.cs [Design]",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\HomeDasboardkasir.cs",
-              "RelativeDocumentMoniker": "GUI\\HomeDasboardkasir.cs",
-              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\HomeDasboardkasir.cs [Design]",
-              "RelativeToolTip": "..\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\HomeDasboardkasir.cs [Design]",
+              "Title": "LaporanDasboardAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\LaporanDasboardAdmin.cs",
+              "RelativeDocumentMoniker": "GUI\\LaporanDasboardAdmin.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\LaporanDasboardAdmin.cs [Design]",
+              "RelativeToolTip": "GUI\\LaporanDasboardAdmin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T14:46:58.851Z"
+              "WhenOpened": "2025-06-11T12:40:54.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
+              "Title": "JagaKasir.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\JagaKasir.cs",
+              "RelativeDocumentMoniker": "GUI\\JagaKasir.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\JagaKasir.cs [Design]",
+              "RelativeToolTip": "GUI\\JagaKasir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:21:45.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LaporanPenjualan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\LaporanPenjualan.cs",
+              "RelativeDocumentMoniker": "GUI\\LaporanPenjualan.cs",
+              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\LaporanPenjualan.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Coba_PBO_Bakery\\GUI\\LaporanPenjualan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:47:15.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Katalog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Katalog.cs",
+              "RelativeDocumentMoniker": "GUI\\Katalog.cs",
+              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\Katalog.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Coba_PBO_Bakery\\GUI\\Katalog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:15:45.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Keranjang.cs [Design]",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\Keranjang.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Keranjang.cs",
               "RelativeDocumentMoniker": "GUI\\Keranjang.cs",
               "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Keranjang.cs [Design]",
-              "RelativeToolTip": "..\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Keranjang.cs [Design]",
+              "RelativeToolTip": "GUI\\Keranjang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T01:14:36.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "HomeDasboardAdmin.cs [Design]",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\HomeDasboardAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\HomeDasboardAdmin.cs",
               "RelativeDocumentMoniker": "GUI\\HomeDasboardAdmin.cs",
               "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\HomeDasboardAdmin.cs [Design]",
-              "RelativeToolTip": "..\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\HomeDasboardAdmin.cs [Design]",
+              "RelativeToolTip": "GUI\\HomeDasboardAdmin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T14:46:46.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "MonitoringKaryawan.cs [Design]",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\MonitoringKaryawan.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\MonitoringKaryawan.cs",
               "RelativeDocumentMoniker": "GUI\\MonitoringKaryawan.cs",
               "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\MonitoringKaryawan.cs [Design]",
-              "RelativeToolTip": "GUI\\MonitoringKaryawan.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Coba_PBO_Bakery\\GUI\\MonitoringKaryawan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T13:55:55.408Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-10T13:55:55.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "MonitoringKaryawan.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\MonitoringKaryawan.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\MonitoringKaryawan.cs",
               "RelativeDocumentMoniker": "GUI\\MonitoringKaryawan.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\MonitoringKaryawan.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\MonitoringKaryawan.cs",
               "RelativeToolTip": "GUI\\MonitoringKaryawan.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAhwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -372,11 +446,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "JagaKasir.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\JagaKasir.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\JagaKasir.cs",
               "RelativeDocumentMoniker": "GUI\\JagaKasir.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\JagaKasir.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\JagaKasir.cs",
               "RelativeToolTip": "GUI\\JagaKasir.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAjwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -384,36 +458,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Presensi.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\Presensi.cs",
-              "RelativeDocumentMoniker": "GUI\\Presensi.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\Presensi.cs",
-              "RelativeToolTip": "GUI\\Presensi.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAjwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T10:50:40.596Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "KontrolerPengguna.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\Controller\\KontrolerPengguna.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Controller\\KontrolerPengguna.cs",
               "RelativeDocumentMoniker": "Controller\\KontrolerPengguna.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\Controller\\KontrolerPengguna.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Controller\\KontrolerPengguna.cs",
               "RelativeToolTip": "Controller\\KontrolerPengguna.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T15:37:46.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T15:37:46.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "KonteksPengguna.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\Model\\KonteksPengguna.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Model\\KonteksPengguna.cs",
               "RelativeDocumentMoniker": "Model\\KonteksPengguna.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\Model\\KonteksPengguna.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Model\\KonteksPengguna.cs",
               "RelativeToolTip": "Model\\KonteksPengguna.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -421,24 +482,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DatabaseConnection.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\Model\\DatabaseConnection.cs",
-              "RelativeDocumentMoniker": "Model\\DatabaseConnection.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\Model\\DatabaseConnection.cs",
-              "RelativeToolTip": "Model\\DatabaseConnection.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T15:17:57.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "Produk.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\Model\\Produk.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Model\\Produk.cs",
               "RelativeDocumentMoniker": "Model\\Produk.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\Model\\Produk.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Model\\Produk.cs",
               "RelativeToolTip": "Model\\Produk.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -446,11 +494,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "Pengguna.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\Model\\Pengguna.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Model\\Pengguna.cs",
               "RelativeDocumentMoniker": "Model\\Pengguna.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\Model\\Pengguna.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Model\\Pengguna.cs",
               "RelativeToolTip": "Model\\Pengguna.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAAABUAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -458,11 +506,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "ItemKeranjang.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\Model\\ItemKeranjang.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Model\\ItemKeranjang.cs",
               "RelativeDocumentMoniker": "Model\\ItemKeranjang.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\Model\\ItemKeranjang.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Model\\ItemKeranjang.cs",
               "RelativeToolTip": "Model\\ItemKeranjang.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -470,11 +518,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "KonteksPresensi.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\Model\\KonteksPresensi.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Model\\KonteksPresensi.cs",
               "RelativeDocumentMoniker": "Model\\KonteksPresensi.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\Model\\KonteksPresensi.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Model\\KonteksPresensi.cs",
               "RelativeToolTip": "Model\\KonteksPresensi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -482,11 +530,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Akun.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\Model\\Akun.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Model\\Akun.cs",
               "RelativeDocumentMoniker": "Model\\Akun.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\Model\\Akun.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Model\\Akun.cs",
               "RelativeToolTip": "Model\\Akun.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -494,11 +542,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "KatalogProduk.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\Model\\KatalogProduk.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Model\\KatalogProduk.cs",
               "RelativeDocumentMoniker": "Model\\KatalogProduk.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\Model\\KatalogProduk.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Model\\KatalogProduk.cs",
               "RelativeToolTip": "Model\\KatalogProduk.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -506,11 +554,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Login.cs",
               "RelativeDocumentMoniker": "GUI\\Login.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\Login.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Login.cs",
               "RelativeToolTip": "GUI\\Login.cs",
               "ViewState": "AgIAAHIAAAAAAAAAAAAAAH4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -519,49 +567,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Login.cs",
               "RelativeDocumentMoniker": "GUI\\Login.cs",
               "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\Login.cs [Design]",
-              "RelativeToolTip": "GUI\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Coba_PBO_Bakery\\GUI\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T06:59:29.264Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-09T06:59:29.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Autentikasi.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\Controller\\Autentikasi.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Controller\\Autentikasi.cs",
               "RelativeDocumentMoniker": "Controller\\Autentikasi.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\Controller\\Autentikasi.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Controller\\Autentikasi.cs",
               "RelativeToolTip": "Controller\\Autentikasi.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAAAowAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T02:06:26.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T02:06:26.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "KontrolerProduk.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\Controller\\KontrolerProduk.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Controller\\KontrolerProduk.cs",
               "RelativeDocumentMoniker": "Controller\\KontrolerProduk.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\Controller\\KontrolerProduk.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Controller\\KontrolerProduk.cs",
               "RelativeToolTip": "Controller\\KontrolerProduk.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T15:38:34.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T15:38:34.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "HomeDashboardPelanggan.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\HomeDashboardPelanggan.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\HomeDashboardPelanggan.cs",
               "RelativeDocumentMoniker": "GUI\\HomeDashboardPelanggan.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\HomeDashboardPelanggan.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\HomeDashboardPelanggan.cs",
               "RelativeToolTip": "GUI\\HomeDashboardPelanggan.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwCcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -569,11 +614,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "Keranjang.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\Keranjang.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Keranjang.cs",
               "RelativeDocumentMoniker": "GUI\\Keranjang.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\Keranjang.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Keranjang.cs",
               "RelativeToolTip": "GUI\\Keranjang.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAowFYAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -581,49 +626,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "BestSeller.cs [Design]",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\BestSeller.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\BestSeller.cs",
               "RelativeDocumentMoniker": "GUI\\BestSeller.cs",
               "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\BestSeller.cs [Design]",
-              "RelativeToolTip": "GUI\\BestSeller.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Coba_PBO_Bakery\\GUI\\BestSeller.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T14:01:01.517Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-09T14:01:01.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "BestSeller.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\BestSeller.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\BestSeller.cs",
               "RelativeDocumentMoniker": "GUI\\BestSeller.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\BestSeller.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\BestSeller.cs",
               "RelativeToolTip": "GUI\\BestSeller.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAAYwHwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T14:02:16.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T14:02:16.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "KonteksProduk.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\Model\\KonteksProduk.cs",
-              "RelativeDocumentMoniker": "Model\\KonteksProduk.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\Model\\KonteksProduk.cs*",
-              "RelativeToolTip": "Model\\KonteksProduk.cs*",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAAwGgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T15:15:19.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "HomeDasboardAdmin.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\HomeDasboardAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\HomeDasboardAdmin.cs",
               "RelativeDocumentMoniker": "GUI\\HomeDasboardAdmin.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\HomeDasboardAdmin.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\HomeDasboardAdmin.cs",
               "RelativeToolTip": "GUI\\HomeDasboardAdmin.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -631,11 +661,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "KonteksTransaksi.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\Model\\KonteksTransaksi.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Model\\KonteksTransaksi.cs",
               "RelativeDocumentMoniker": "Model\\KonteksTransaksi.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\Model\\KonteksTransaksi.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Model\\KonteksTransaksi.cs",
               "RelativeToolTip": "Model\\KonteksTransaksi.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAowFAAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -643,24 +673,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Koneksi_Database.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\Koneksi_Database.cs",
-              "RelativeDocumentMoniker": "Koneksi_Database.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\Koneksi_Database.cs",
-              "RelativeToolTip": "Koneksi_Database.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T05:15:55.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\Register.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Register.cs",
               "RelativeDocumentMoniker": "GUI\\Register.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\Register.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Register.cs",
               "RelativeToolTip": "GUI\\Register.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAAAAC4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -669,11 +686,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "LaporanPenjualan.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\LaporanPenjualan.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\LaporanPenjualan.cs",
               "RelativeDocumentMoniker": "GUI\\LaporanPenjualan.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\LaporanPenjualan.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\LaporanPenjualan.cs",
               "RelativeToolTip": "GUI\\LaporanPenjualan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -681,11 +698,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "LaporanDasboardAdmin.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\LaporanDasboardAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\LaporanDasboardAdmin.cs",
               "RelativeDocumentMoniker": "GUI\\LaporanDasboardAdmin.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\LaporanDasboardAdmin.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\LaporanDasboardAdmin.cs",
               "RelativeToolTip": "GUI\\LaporanDasboardAdmin.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -693,11 +710,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "Keranjang1.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\Keranjang1.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Keranjang1.cs",
               "RelativeDocumentMoniker": "GUI\\Keranjang1.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\Keranjang1.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Keranjang1.cs",
               "RelativeToolTip": "GUI\\Keranjang1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -705,36 +722,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Katalog.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\Katalog.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Katalog.cs",
               "RelativeDocumentMoniker": "GUI\\Katalog.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\Katalog.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Katalog.cs",
               "RelativeToolTip": "GUI\\Katalog.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAowDcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T14:26:55.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T14:26:55.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "HomeDasboardkasir.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\HomeDasboardkasir.cs",
-              "RelativeDocumentMoniker": "GUI\\HomeDasboardkasir.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\HomeDasboardkasir.cs",
-              "RelativeToolTip": "GUI\\HomeDasboardkasir.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T02:24:53.552Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "FormUbahPengguna.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\FormUbahPengguna.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\FormUbahPengguna.cs",
               "RelativeDocumentMoniker": "GUI\\FormUbahPengguna.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\FormUbahPengguna.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\FormUbahPengguna.cs",
               "RelativeToolTip": "GUI\\FormUbahPengguna.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -743,11 +747,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "KontrolerTransaksi.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\Controller\\KontrolerTransaksi.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Controller\\KontrolerTransaksi.cs",
               "RelativeDocumentMoniker": "Controller\\KontrolerTransaksi.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\Controller\\KontrolerTransaksi.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Controller\\KontrolerTransaksi.cs",
               "RelativeToolTip": "Controller\\KontrolerTransaksi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -755,44 +759,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "FormUbahPengguna.cs [Design]",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\FormUbahPengguna.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\FormUbahPengguna.cs",
               "RelativeDocumentMoniker": "GUI\\FormUbahPengguna.cs",
               "ToolTip": "C:\\Kinar_Bakery\\Kinar_Bakery\\GUI\\FormUbahPengguna.cs [Design]",
-              "RelativeToolTip": "..\\Kinar_Bakery\\Kinar_Bakery\\GUI\\FormUbahPengguna.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Kinar_Bakery\\Kinar_Bakery\\GUI\\FormUbahPengguna.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T14:57:08.12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "Keranjang1.resx",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\Keranjang1.resx",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Keranjang1.resx",
               "RelativeDocumentMoniker": "GUI\\Keranjang1.resx",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\Keranjang1.resx",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Keranjang1.resx",
               "RelativeToolTip": "GUI\\Keranjang1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2025-06-10T01:10:52.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "Register.cs [Design]",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\Register.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Register.cs",
               "RelativeDocumentMoniker": "GUI\\Register.cs",
               "ToolTip": "C:\\Kinar_Bakery\\Kinar_Bakery\\GUI\\Register.cs [Design]",
-              "RelativeToolTip": "..\\Kinar_Bakery\\Kinar_Bakery\\GUI\\Register.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Kinar_Bakery\\Kinar_Bakery\\GUI\\Register.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T06:59:16.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -800,11 +804,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "HomeDashboardPelanggan.Designer.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\HomeDashboardPelanggan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\HomeDashboardPelanggan.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\HomeDashboardPelanggan.Designer.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\HomeDashboardPelanggan.Designer.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\HomeDashboardPelanggan.Designer.cs",
               "RelativeToolTip": "GUI\\HomeDashboardPelanggan.Designer.cs",
               "ViewState": "AgIAAKUAAAAAAAAAAAAAAMIAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -812,11 +816,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "Register.Designer.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\Register.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Register.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\Register.Designer.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\Register.Designer.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Register.Designer.cs",
               "RelativeToolTip": "GUI\\Register.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -824,62 +828,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "BestSeller.resx",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\BestSeller.resx",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\BestSeller.resx",
               "RelativeDocumentMoniker": "GUI\\BestSeller.resx",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\BestSeller.resx",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\BestSeller.resx",
               "RelativeToolTip": "GUI\\BestSeller.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-06-09T15:41:12.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T15:41:12.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "BestSeller.Designer.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\BestSeller.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\BestSeller.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\BestSeller.Designer.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\BestSeller.Designer.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\BestSeller.Designer.cs",
               "RelativeToolTip": "GUI\\BestSeller.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T15:41:13.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Katalog.Designer.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\Katalog.Designer.cs",
-              "RelativeDocumentMoniker": "GUI\\Katalog.Designer.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\Katalog.Designer.cs",
-              "RelativeToolTip": "GUI\\Katalog.Designer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAhwBYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T14:26:59.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T15:41:13.452Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 51,
-              "Title": "HomeDasboardkasir.Designer.cs",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\GUI\\HomeDasboardkasir.Designer.cs",
-              "RelativeDocumentMoniker": "GUI\\HomeDasboardkasir.Designer.cs",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\GUI\\HomeDasboardkasir.Designer.cs",
-              "RelativeToolTip": "GUI\\HomeDasboardkasir.Designer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAowBYAAAAIAAAAAAAAAA==",
+              "Title": "Katalog.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Katalog.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\Katalog.Designer.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\GUI\\Katalog.Designer.cs",
+              "RelativeToolTip": "GUI\\Katalog.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAhwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T03:57:12.438Z"
+              "WhenOpened": "2025-06-09T14:26:59.253Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 53,
               "Title": "HomeDasboardAdmin.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar_Bakery\\HomeDasboardAdmin.cs",
-              "RelativeDocumentMoniker": "..\\Kinar_Bakery\\Kinar_Bakery\\HomeDasboardAdmin.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Kinar_Bakery\\Kinar_Bakery\\HomeDasboardAdmin.cs",
               "ToolTip": "C:\\Kinar_Bakery\\Kinar_Bakery\\HomeDasboardAdmin.cs [Design]",
-              "RelativeToolTip": "..\\Kinar_Bakery\\Kinar_Bakery\\HomeDasboardAdmin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Kinar_Bakery\\Kinar_Bakery\\HomeDasboardAdmin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T02:17:18.254Z"
             },
@@ -888,9 +877,9 @@
               "DocumentIndex": 54,
               "Title": "HomeDasboardkasir.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar_Bakery\\HomeDasboardkasir.cs",
-              "RelativeDocumentMoniker": "..\\Kinar_Bakery\\Kinar_Bakery\\HomeDasboardkasir.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Kinar_Bakery\\Kinar_Bakery\\HomeDasboardkasir.cs",
               "ToolTip": "C:\\Kinar_Bakery\\Kinar_Bakery\\HomeDasboardkasir.cs [Design]",
-              "RelativeToolTip": "..\\Kinar_Bakery\\Kinar_Bakery\\HomeDasboardkasir.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Kinar_Bakery\\Kinar_Bakery\\HomeDasboardkasir.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T08:30:53.276Z"
             },
@@ -898,9 +887,9 @@
               "$type": "Document",
               "DocumentIndex": 52,
               "Title": "Paperclip.png -  [English (United States)] - PNG [31x34, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Coba_PBO_Bakery\\Resources\\Paperclip.png",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Resources\\Paperclip.png",
               "RelativeDocumentMoniker": "Resources\\Paperclip.png",
-              "ToolTip": "C:\\Coba_PBO_Bakery\\Resources\\Paperclip.png -  [English (United States)] - PNG [31x34, 32 bit, PNG]",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Bakery_PBO\\PROJEK AKHIR\\Resources\\Paperclip.png -  [English (United States)] - PNG [31x34, 32 bit, PNG]",
               "RelativeToolTip": "Resources\\Paperclip.png -  [English (United States)] - PNG [31x34, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2025-05-28T08:19:29.256Z",
@@ -911,9 +900,9 @@
               "DocumentIndex": 55,
               "Title": "HomeDashboardPelanggan.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar_Bakery\\HomeDashboardPelanggan.cs",
-              "RelativeDocumentMoniker": "..\\Kinar_Bakery\\Kinar_Bakery\\HomeDashboardPelanggan.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Kinar_Bakery\\Kinar_Bakery\\HomeDashboardPelanggan.cs",
               "ToolTip": "C:\\Kinar_Bakery\\Kinar_Bakery\\HomeDashboardPelanggan.cs [Design]",
-              "RelativeToolTip": "..\\Kinar_Bakery\\Kinar_Bakery\\HomeDashboardPelanggan.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Kinar_Bakery\\Kinar_Bakery\\HomeDashboardPelanggan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T02:17:24.517Z"
             },
@@ -922,9 +911,9 @@
               "DocumentIndex": 56,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar_Bakery\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\Kinar_Bakery\\Kinar_Bakery\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Kinar_Bakery\\Kinar_Bakery\\Form1.cs",
               "ToolTip": "C:\\Kinar_Bakery\\Kinar_Bakery\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\Kinar_Bakery\\Kinar_Bakery\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Kinar_Bakery\\Kinar_Bakery\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T08:19:27.086Z"
             },
@@ -933,9 +922,9 @@
               "DocumentIndex": 57,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar_Bakery\\Login.cs",
-              "RelativeDocumentMoniker": "..\\Kinar_Bakery\\Kinar_Bakery\\Login.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Kinar_Bakery\\Kinar_Bakery\\Login.cs",
               "ToolTip": "C:\\Kinar_Bakery\\Kinar_Bakery\\Login.cs [Design]",
-              "RelativeToolTip": "..\\Kinar_Bakery\\Kinar_Bakery\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Kinar_Bakery\\Kinar_Bakery\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T02:00:56.474Z"
             },
@@ -944,9 +933,9 @@
               "DocumentIndex": 58,
               "Title": "Register.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar_Bakery\\Register.cs",
-              "RelativeDocumentMoniker": "..\\Kinar_Bakery\\Kinar_Bakery\\Register.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Kinar_Bakery\\Kinar_Bakery\\Register.cs",
               "ToolTip": "C:\\Kinar_Bakery\\Kinar_Bakery\\Register.cs [Design]",
-              "RelativeToolTip": "..\\Kinar_Bakery\\Kinar_Bakery\\Register.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Kinar_Bakery\\Kinar_Bakery\\Register.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T02:01:02.876Z"
             }

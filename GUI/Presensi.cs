@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Kinar_Bakery.Controller;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,27 +13,42 @@ namespace Kinar_Bakery.GUI
 {
     public partial class Presensi : Form
     {
-        public Presensi()
+        
+        private readonly int _id_user;
+        
+        private readonly KontrolerProduk _kontroler;
+        public Presensi(int id_user)
         {
             InitializeComponent();
+            _id_user = id_user;
         }
 
-        private void btnHome_Click(object sender, EventArgs e)
+        private void txtTanggalhariIni_TextChanged(object sender, EventArgs e)
         {
 
         }
 
-        private void label2_Click(object sender, EventArgs e)
+        private void lblProfilNamaKaryawan_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void panel8_Paint(object sender, PaintEventArgs e)
+        private void btnPresensi_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void txtJamMasuk_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtJamKeluar_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnTanggal_Click(object sender, EventArgs e)
         {
 
         }

@@ -34,11 +34,10 @@ namespace Kinar_Bakery.Model
             }
 
             if (opsiUrut == "Harga Tertinggi")
-                return daftarProduk.OrderByDescending(p => p.Harga ?? 0m).ToList(); 
+                return daftarProduk.OrderByDescending(p => p.Harga).ToList();
             else if (opsiUrut == "Harga Terendah")
-                return daftarProduk.OrderBy(p => p.Harga ?? 0m).ToList();
-            else if (opsiUrut == "p.nama")
-                return daftarProduk.OrderBy(p => p.Nama).ToList();
+                return daftarProduk.OrderBy(p => p.Harga).ToList();
+
 
             return daftarProduk;
         }
@@ -156,5 +155,8 @@ namespace Kinar_Bakery.Model
             var parameters = new[] { new NpgsqlParameter("@id", id) };
             dbConnection.ExecuteNonQuery(query, parameters);
         }
+
+
+
     }
 }

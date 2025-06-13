@@ -61,7 +61,7 @@ namespace Kinar_Bakery.Model
                 }
 
                 // Handle nullable decimal for produk.Harga
-                decimal total_harga = (produk.Harga ?? 0m) * jumlah; // Use null-coalescing operator to handle null
+                decimal total_harga = produk.Harga * jumlah;
 
                 string query = "INSERT INTO public.pesanan_sementara (id_user, id_produk, jumlah, total_harga, tanggal_pemesanan) " +
                                "VALUES (@id_user, @id_produk, @jumlah, @total_harga, CURRENT_TIMESTAMP)";

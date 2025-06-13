@@ -30,19 +30,21 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(JagaKasir));
             panel2 = new Panel();
+            txtCariProduk = new TextBox();
             panel8 = new Panel();
-            label9 = new Label();
-            label8 = new Label();
+            lblTotal = new Label();
+            lblHarga = new Label();
             label7 = new Label();
-            label6 = new Label();
+            lblJumlah = new Label();
             label5 = new Label();
             label4 = new Label();
-            label2 = new Label();
+            lblNama = new Label();
             label1 = new Label();
-            button2 = new Button();
+            btnKonfirmasi = new Button();
             label3 = new Label();
             panel9 = new Panel();
-            button1 = new Button();
+            dataGridView1 = new DataGridView();
+            btnTambah = new Button();
             lblJudul = new Label();
             panel3 = new Panel();
             panel7 = new Panel();
@@ -55,17 +57,17 @@
             btnHome = new Button();
             panel4 = new Panel();
             panel1 = new Panel();
-            textBox1 = new TextBox();
             panel2.SuspendLayout();
             panel8.SuspendLayout();
             panel9.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             panel3.SuspendLayout();
             SuspendLayout();
             // 
             // panel2
             // 
             panel2.BackColor = Color.FromArgb(251, 238, 215);
-            panel2.Controls.Add(textBox1);
+            panel2.Controls.Add(txtCariProduk);
             panel2.Controls.Add(panel8);
             panel2.Controls.Add(label3);
             panel2.Controls.Add(panel9);
@@ -78,63 +80,74 @@
             panel2.Size = new Size(1263, 683);
             panel2.TabIndex = 7;
             // 
+            // txtCariProduk
+            // 
+            txtCariProduk.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            txtCariProduk.Location = new Point(1079, 117);
+            txtCariProduk.Name = "txtCariProduk";
+            txtCariProduk.Size = new Size(152, 26);
+            txtCariProduk.TabIndex = 8;
+            txtCariProduk.TextChanged += txtCariProduk_TextChanged;
+            // 
             // panel8
             // 
             panel8.BackColor = Color.FromArgb(183, 150, 107);
-            panel8.Controls.Add(label9);
-            panel8.Controls.Add(label8);
+            panel8.Controls.Add(lblTotal);
+            panel8.Controls.Add(lblHarga);
             panel8.Controls.Add(label7);
-            panel8.Controls.Add(label6);
+            panel8.Controls.Add(lblJumlah);
             panel8.Controls.Add(label5);
             panel8.Controls.Add(label4);
-            panel8.Controls.Add(label2);
+            panel8.Controls.Add(lblNama);
             panel8.Controls.Add(label1);
-            panel8.Controls.Add(button2);
+            panel8.Controls.Add(btnKonfirmasi);
             panel8.Location = new Point(278, 399);
             panel8.Name = "panel8";
             panel8.Size = new Size(953, 245);
             panel8.TabIndex = 6;
             // 
-            // label9
+            // lblTotal
             // 
-            label9.AutoSize = true;
-            label9.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label9.Location = new Point(840, 158);
-            label9.Name = "label9";
-            label9.Size = new Size(57, 20);
-            label9.TabIndex = 8;
-            label9.Text = "label9";
+            lblTotal.AutoSize = true;
+            lblTotal.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblTotal.Location = new Point(840, 158);
+            lblTotal.Name = "lblTotal";
+            lblTotal.Size = new Size(57, 20);
+            lblTotal.TabIndex = 8;
+            lblTotal.Text = "label9";
+            lblTotal.Click += lblTotal_Click;
             // 
-            // label8
+            // lblHarga
             // 
-            label8.AutoSize = true;
-            label8.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label8.Location = new Point(840, 52);
-            label8.Name = "label8";
-            label8.Size = new Size(57, 20);
-            label8.TabIndex = 7;
-            label8.Text = "label8";
+            lblHarga.AutoSize = true;
+            lblHarga.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblHarga.Location = new Point(840, 52);
+            lblHarga.Name = "lblHarga";
+            lblHarga.Size = new Size(57, 20);
+            lblHarga.TabIndex = 7;
+            lblHarga.Text = "label8";
+            lblHarga.Click += lblHarga_Click;
             // 
             // label7
             // 
             label7.AutoSize = true;
             label7.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label7.Location = new Point(818, 16);
+            label7.Location = new Point(839, 11);
             label7.Name = "label7";
-            label7.Size = new Size(103, 20);
+            label7.Size = new Size(58, 20);
             label7.TabIndex = 6;
-            label7.Text = "Total Harga";
+            label7.Text = "Harga";
             // 
-            // label6
+            // lblJumlah
             // 
-            label6.AutoSize = true;
-            label6.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label6.Location = new Point(471, 52);
-            label6.Name = "label6";
-            label6.Size = new Size(57, 20);
-            label6.TabIndex = 5;
-            label6.Text = "label6";
-            label6.Click += label6_Click;
+            lblJumlah.AutoSize = true;
+            lblJumlah.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblJumlah.Location = new Point(471, 52);
+            lblJumlah.Name = "lblJumlah";
+            lblJumlah.Size = new Size(57, 20);
+            lblJumlah.TabIndex = 5;
+            lblJumlah.Text = "label6";
+            lblJumlah.Click += lblJumlah_Click;
             // 
             // label5
             // 
@@ -156,16 +169,16 @@
             label4.TabIndex = 3;
             label4.Text = "Total";
             // 
-            // label2
+            // lblNama
             // 
-            label2.AutoSize = true;
-            label2.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label2.Location = new Point(27, 52);
-            label2.Name = "label2";
-            label2.Size = new Size(89, 20);
-            label2.TabIndex = 2;
-            label2.Text = "nama roti ";
-            label2.Click += label2_Click;
+            lblNama.AutoSize = true;
+            lblNama.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblNama.Location = new Point(27, 52);
+            lblNama.Name = "lblNama";
+            lblNama.Size = new Size(89, 20);
+            lblNama.TabIndex = 2;
+            lblNama.Text = "nama roti ";
+            lblNama.Click += lblNama_Click;
             // 
             // label1
             // 
@@ -177,22 +190,23 @@
             label1.TabIndex = 1;
             label1.Text = "Nama";
             // 
-            // button2
+            // btnKonfirmasi
             // 
-            button2.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button2.ForeColor = Color.FromArgb(128, 64, 0);
-            button2.Location = new Point(818, 186);
-            button2.Name = "button2";
-            button2.Size = new Size(121, 45);
-            button2.TabIndex = 0;
-            button2.Text = "Konfirmasi";
-            button2.UseVisualStyleBackColor = true;
+            btnKonfirmasi.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnKonfirmasi.ForeColor = Color.FromArgb(128, 64, 0);
+            btnKonfirmasi.Location = new Point(818, 186);
+            btnKonfirmasi.Name = "btnKonfirmasi";
+            btnKonfirmasi.Size = new Size(121, 45);
+            btnKonfirmasi.TabIndex = 0;
+            btnKonfirmasi.Text = "Konfirmasi";
+            btnKonfirmasi.UseVisualStyleBackColor = true;
+            btnKonfirmasi.Click += btnKonfirmasi_Click;
             // 
             // label3
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label3.Location = new Point(965, 136);
+            label3.Location = new Point(971, 120);
             label3.Name = "label3";
             label3.Size = new Size(102, 20);
             label3.TabIndex = 7;
@@ -201,22 +215,33 @@
             // panel9
             // 
             panel9.BackColor = Color.FromArgb(183, 150, 107);
-            panel9.Controls.Add(button1);
-            panel9.Location = new Point(278, 171);
+            panel9.Controls.Add(dataGridView1);
+            panel9.Controls.Add(btnTambah);
+            panel9.Location = new Point(278, 149);
             panel9.Name = "panel9";
-            panel9.Size = new Size(953, 194);
+            panel9.Size = new Size(953, 232);
             panel9.TabIndex = 5;
             // 
-            // button1
+            // dataGridView1
             // 
-            button1.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.ForeColor = Color.FromArgb(128, 64, 0);
-            button1.Location = new Point(840, 146);
-            button1.Name = "button1";
-            button1.Size = new Size(99, 38);
-            button1.TabIndex = 0;
-            button1.Text = "Tambah";
-            button1.UseVisualStyleBackColor = true;
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Location = new Point(0, 0);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.Size = new Size(953, 185);
+            dataGridView1.TabIndex = 1;
+            dataGridView1.CellContentClick += dataGridView1_CellContentClick;
+            // 
+            // btnTambah
+            // 
+            btnTambah.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnTambah.ForeColor = Color.FromArgb(128, 64, 0);
+            btnTambah.Location = new Point(840, 191);
+            btnTambah.Name = "btnTambah";
+            btnTambah.Size = new Size(99, 38);
+            btnTambah.TabIndex = 0;
+            btnTambah.Text = "Tambah";
+            btnTambah.UseVisualStyleBackColor = true;
+            btnTambah.Click += btnTambah_Click;
             // 
             // lblJudul
             // 
@@ -350,14 +375,6 @@
             panel1.Size = new Size(0, 0);
             panel1.TabIndex = 0;
             // 
-            // textBox1
-            // 
-            textBox1.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            textBox1.Location = new Point(1079, 133);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(152, 26);
-            textBox1.TabIndex = 8;
-            // 
             // JagaKasir
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -371,6 +388,7 @@
             panel8.ResumeLayout(false);
             panel8.PerformLayout();
             panel9.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             panel3.ResumeLayout(false);
             ResumeLayout(false);
         }
@@ -391,18 +409,19 @@
         private Panel panel4;
         private Panel panel1;
         private Panel panel8;
-        private Button button2;
+        private Button btnKonfirmasi;
         private Label label3;
         private Panel panel9;
-        private Button button1;
-        private Label label9;
-        private Label label8;
+        private Button btnTambah;
+        private Label lblTotal;
+        private Label lblHarga;
         private Label label7;
-        private Label label6;
+        private Label lblJumlah;
         private Label label5;
         private Label label4;
-        private Label label2;
+        private Label lblNama;
         private Label label1;
-        private TextBox textBox1;
+        private TextBox txtCariProduk;
+        private DataGridView dataGridView1;
     }
 }

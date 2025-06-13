@@ -12,6 +12,6 @@ namespace Kinar_Bakery.Model
         public string? Nama { get; set; }
         public string? Jenis { get; set; }
         public int Stok { get; set; }
-        public decimal? Harga { get; set; }
+        public decimal Harga { get; set; }
     }
 }

@@ -1,46 +1,55 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="GUI\BestSeller.cs">
+    <Compile Update="GUI\Owner\EditProduk.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="GUI\FormUbahPengguna.cs">
+    <Compile Update="GUI\Owner\Gaji.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="GUI\KonfirmasiPesanan.cs">
+    <Compile Update="GUI\Owner\KelolaProduk.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="GUI\HomeDasboardAdmin.cs">
+    <Compile Update="GUI\Owner\LaporanDashboardAdmin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="GUI\HomeDasboardkasir.cs">
+    <Compile Update="GUI\Owner\TambahProduk.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="GUI\JagaKasir.cs">
+    <Compile Update="GUI\Pelanggan\BestSeller.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="GUI\Katalog.cs">
+    <Compile Update="GUI\Pelanggan\FormUbahPengguna.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="GUI\Keranjang.cs">
+    <Compile Update="GUI\Karyawan\KonfirmasiPesanan.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="GUI\Keranjang1.cs">
+    <Compile Update="GUI\Owner\HomeDasboardAdmin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="GUI\LaporanDasboardAdmin.cs">
+    <Compile Update="GUI\Karyawan\HomeDasboardkasir.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="GUI\LaporanPenjualan.cs">
+    <Compile Update="GUI\Karyawan\JagaKasir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\Pelanggan\Katalog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\Pelanggan\Keranjang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\Owner\LaporanPenjualan.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="GUI\Login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="GUI\MonitoringKaryawan.cs">
+    <Compile Update="GUI\Owner\MonitoringKaryawan.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="GUI\Presensi.cs">
+    <Compile Update="GUI\Karyawan\Presensi.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="GUI\Register.cs">

@@ -80,24 +80,32 @@ namespace Kinar_Bakery.Model
             }
         }
 
-        public void KonfirmasiPesanan(int id_user)
+        public void KonfirmasiPesanan(int idPesananSementara)
         {
             try
             {
-                // Ambil semua pesanan sementara untuk pengguna
-                string selectQuery = "SELECT id_pesanan_sementara, id_produk, jumlah, total_harga FROM public.pesanan_sementara WHERE id_user = @id_user";
-                var selectParameters = new[] { new NpgsqlParameter("@id_user", id_user) };
+                string selectQuery = "SELECT id_user, id_produk, jumlah, total_harga FROM public.pesanan_sementara WHERE id_pesanan_sementara = @id_pesanan_sementara";
+                var selectParameters = new[] { new NpgsqlParameter("@id_pesanan_sementara", idPesananSementara) };
                 var result = dbConnection.ExecuteQuery(selectQuery, selectParameters);
 
-                foreach (DataRow row in result.Rows)
+                if (result.Rows.Count > 0)
                 {
-                    int id_produk = Convert.ToInt32(row["id_produk"]);
-                    int jumlah = Convert.ToInt32(row["jumlah"]);
-                    decimal total_harga = row["total_harga"] != DBNull.Value ? Convert.ToDecimal(row["total_harga"]) : 0m; // Handle null
+                    DataRow row = result.Rows[0];
+                    long id_user = Convert.ToInt64(row["id_user"]);
+                    long id_produk = Convert.ToInt64(row["id_produk"]);
+                    long jumlah = Convert.ToInt64(row["jumlah"]);
+                    decimal total_harga = row["total_harga"] != DBNull.Value ? Convert.ToDecimal(row["total_harga"]) : 0m;
 
-                    // Sisipkan ke transaksi_penjualan
-                    string insertQuery = "INSERT INTO public.transaksi_penjualan (id_outlet, id_karyawan, id_produk, jumlah, total, tanggal_transaksi, id_pelanggan) " +
-                                         "VALUES (1, 1, @id_produk, @jumlah, @total_harga, CURRENT_TIMESTAMP, @id_user)";
+                    string validateQuery = "SELECT COUNT(*) FROM public.users WHERE id_user = @id_user";
+                    var validateParameters = new[] { new NpgsqlParameter("@id_user", id_user) };
+                    var validateResult = dbConnection.ExecuteQuery(validateQuery, validateParameters);
+                    if (validateResult.Rows[0].Field<long>(0) == 0)
+                    {
+                        throw new Exception($"ID Pelanggan {id_user} tidak ditemukan di tabel Pelanggan.");
+                    }
+
+                    string insertQuery = "INSERT INTO public.transaksi_penjualan (id_outlet, id_karyawan, id_produk, jumlah, total, tanggal_transaksi, id_user) " +
+                                        "VALUES (1, 1, @id_produk, @jumlah, @total_harga, CURRENT_TIMESTAMP, @id_user)";
                     var insertParameters = new[]
                     {
                         new NpgsqlParameter("@id_produk", id_produk),
@@ -107,7 +115,6 @@ namespace Kinar_Bakery.Model
                     };
                     dbConnection.ExecuteNonQuery(insertQuery, insertParameters);
 
-                    // Kurangi stok
                     string updateQuery = "UPDATE public.produk SET stok = stok - @jumlah WHERE id_produk = @id_produk";
                     var updateParameters = new[]
                     {
@@ -115,17 +122,22 @@ namespace Kinar_Bakery.Model
                         new NpgsqlParameter("@id_produk", id_produk)
                     };
                     dbConnection.ExecuteNonQuery(updateQuery, updateParameters);
-                }
 
-                // Hapus pesanan sementara setelah dikonfirmasi
-                string deleteQuery = "DELETE FROM public.pesanan_sementara WHERE id_user = @id_user";
-                dbConnection.ExecuteNonQuery(deleteQuery, selectParameters);
+                    string deleteQuery = "DELETE FROM public.pesanan_sementara WHERE id_pesanan_sementara = @id_pesanan_sementara";
+                    var deleteParameters = new[] { new NpgsqlParameter("@id_pesanan_sementara", idPesananSementara) };
+                    dbConnection.ExecuteNonQuery(deleteQuery, deleteParameters);
+                }
+                else
+                {
+                    throw new Exception("Pesanan dengan ID tersebut tidak ditemukan.");
+                }
             }
             catch (Exception ex)
             {
                 throw new Exception($"Gagal mengonfirmasi pesanan: {ex.Message}");
             }
         }
+
 
         public void TambahTransaksi(int id_produk, int jumlah, int id_pelanggan)
         {
@@ -164,6 +176,20 @@ namespace Kinar_Bakery.Model
             catch (Exception ex)
             {
                 throw new Exception($"Gagal menghapus transaksi: {ex.Message}");
+            }
+        }
+
+        public void HapusPesananSementara(int idPesananSementara)
+        {
+            try
+            {
+                string deleteQuery = "DELETE FROM public.pesanan_sementara WHERE id_pesanan_sementara = @id_pesanan_sementara";
+                var parameters = new[] { new NpgsqlParameter("@id_pesanan_sementara", idPesananSementara) };
+                dbConnection.ExecuteNonQuery(deleteQuery, parameters);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception($"Gagal menghapus pesanan sementara: {ex.Message}");
             }
         }
     }

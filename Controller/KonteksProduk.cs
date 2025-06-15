@@ -221,15 +221,6 @@ namespace Kinar_Bakery.Controller
             }
         }
 
-        //public List<Produk> AmbilSemuaProduk(string opsiUrut = null)
-        //{
-        //    return AmbilSemua(opsiUrut); // Panggil metode AmbilSemua yang sudah ada
-        //}
-
-        //public List<Produk> AmbilBestSeller()
-        //{
-        //    return AmbilBestSeller(); // Panggil metode AmbilBestSeller yang sudah ada
-        //}
 
         public void TambahKeKeranjang(int id_produk, int jumlah, int id_user)
         {

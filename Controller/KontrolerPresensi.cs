@@ -18,7 +18,10 @@ namespace Kinar_Bakery.Controller
         {
             try
             {
-                string query = "SELECT * FROM public.presensi WHERE tanggal BETWEEN @awal AND @akhir";
+                string query = "SELECT p.id_presensi, p.id_karyawan, u.nama, p.tanggal, p.jam_masuk, p.jam_keluar, p.status " +
+                               "FROM public.presensi p " +
+                               "JOIN public.users u ON p.id_karyawan = u.id_user " +
+                               "WHERE p.tanggal BETWEEN @awal AND @akhir";
                 var parameters = new[]
                 {
                     new NpgsqlParameter("@awal", tanggalAwal),
@@ -64,4 +67,4 @@ namespace Kinar_Bakery.Controller
             }
         }
     }
-}   
+}

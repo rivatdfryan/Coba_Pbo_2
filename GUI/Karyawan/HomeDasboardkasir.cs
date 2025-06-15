@@ -2,6 +2,7 @@
 using Kinar_Bakery.GUI;
 using Kinar_Bakery.GUI.Pelanggan;
 using Kinar_Bakery.Model;
+using Kinar_Bakery.z;
 using Npgsql;
 using System;
 using System.Collections.Generic;
@@ -18,18 +19,18 @@ namespace Kinar_Bakery
     public partial class HomeDasboardkasir : Form
     {
         private readonly int _id_user;
-        private readonly KonteksPengguna _kontrolerPengguna;
-        private readonly KonteksTransaksi _kontrolerTransaksi;
+        private readonly KontrolerPengguna _kontrolerPengguna;
+        private readonly KontrolerTransaksi _kontrolerTransaksi;
         private readonly DatabaseConnection _dbConnection;
-        private readonly KonteksPengguna _kontroler;
+        private readonly KontrolerPengguna _kontroler;
 
 
         public HomeDasboardkasir(int id_user)
         {
             InitializeComponent();
             _id_user = id_user;
-            _kontrolerPengguna = new KonteksPengguna();
-            _kontrolerTransaksi = new KonteksTransaksi();
+            _kontrolerPengguna = new KontrolerPengguna();
+            _kontrolerTransaksi = new KontrolerTransaksi();
             _dbConnection = new DatabaseConnection();
 
             LoadDataAwal();
@@ -39,7 +40,7 @@ namespace Kinar_Bakery
         {
             try
             {
-                var pengguna = _kontrolerPengguna.AmbilBerdasarkanId(_id_user);
+                var pengguna = _kontrolerPengguna.AmbilPengguna(_id_user);
                 if (pengguna == null || pengguna.Role?.ToLower() != "karyawan")
                 {
                     MessageBox.Show("Akses ditolak. Anda bukan kasir!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -185,6 +186,13 @@ namespace Kinar_Bakery
             }
         }
 
+
+        // Placeholder jika diperlukan untuk event lainnya
+        private void lblSelamatDatangnamaKasir_Click(object sender, EventArgs e) { }
+        private void lblTotalPenjualanProduk_Click(object sender, EventArgs e) { }
+        private void lblTotalPendapatanBakery_Click(object sender, EventArgs e) { }
+        private void lblStatusPresensi_Click(object sender, EventArgs e) { }
+
         private void lblTotalPenjualanProduk_Click_1(object sender, EventArgs e)
         {
             if (!DateTime.TryParse(lblPilihTanggalHariIni.Text, out DateTime tanggal))
@@ -256,10 +264,12 @@ namespace Kinar_Bakery
 
             try
             {
+                // Ambil data dari tabel transaksi_penjualan
                 var (totalProduk, totalPendapatan) = AmbilTotalPenjualanKasir(_id_user, tanggal);
                 lblTotalPenjualanProduk.Text = $"{totalProduk} produk";
                 lblTotalPendapatanBakery.Text = $"Rp {totalPendapatan:N0}";
 
+                // Ambil data presensi
                 lblStatusPresensi.Text = AmbilStatusPresensi(_id_user, tanggal);
             }
             catch (Exception ex)

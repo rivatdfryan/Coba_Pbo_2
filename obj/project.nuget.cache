@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "odV8JHING6k=",
+  "dgSpecHash": "knQdIXYvxBM=",
   "success": true,
-  "projectFilePath": "C:\\Kinar_Bakery\\Kinar Bakery PBO OOP\\Kinar_Bakery.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Downloads\\PBO_KINAR_BAKERY\\Kinar_Bakery.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.1\\microsoft.entityframeworkcore.9.0.1.nupkg.sha512",

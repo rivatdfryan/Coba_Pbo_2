@@ -91,7 +91,7 @@ namespace Kinar_Bakery.GUI.Owner
             try
             {
                 this.Hide();
-                new KonfirmasiPesanan(id_user).ShowDialog();
+                new HomeDasboardAdmin(id_user).ShowDialog();
                 this.Show();
             }
             catch (Exception ex)

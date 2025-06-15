@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Kinar_Bakery\\Kinar Bakery PBO OOP\\Kinar_Bakery.csproj": {}
+    "C:\\Users\\Asus\\Downloads\\PBO_KINAR_BAKERY\\Kinar_Bakery.csproj": {}
   },
   "projects": {
-    "C:\\Kinar_Bakery\\Kinar Bakery PBO OOP\\Kinar_Bakery.csproj": {
+    "C:\\Users\\Asus\\Downloads\\PBO_KINAR_BAKERY\\Kinar_Bakery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Kinar_Bakery\\Kinar Bakery PBO OOP\\Kinar_Bakery.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Downloads\\PBO_KINAR_BAKERY\\Kinar_Bakery.csproj",
         "projectName": "Kinar_Bakery",
-        "projectPath": "C:\\Kinar_Bakery\\Kinar Bakery PBO OOP\\Kinar_Bakery.csproj",
+        "projectPath": "C:\\Users\\Asus\\Downloads\\PBO_KINAR_BAKERY\\Kinar_Bakery.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Kinar_Bakery\\Kinar Bakery PBO OOP\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Downloads\\PBO_KINAR_BAKERY\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

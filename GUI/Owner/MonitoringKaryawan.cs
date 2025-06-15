@@ -54,20 +54,32 @@ namespace Kinar_Bakery.GUI
 
         private void txtCari_TextChanged(object sender, EventArgs e)
         {
-            if (presensiData != null)
+            if (presensiData == null || presensiData.Rows.Count == 0)
             {
-                string filter = txtCari.Text.Trim().ToLower();
-                if (string.IsNullOrEmpty(filter))
+                dataGridViewKaryawan.DataSource = null;
+                return;
+            }
+
+            string filter = txtCari.Text.Trim().ToLower();
+            if (string.IsNullOrEmpty(filter))
+            {
+                dataGridViewKaryawan.DataSource = presensiData;
+            }
+            else
+            {
+                var filteredData = presensiData.AsEnumerable()
+                    .Where(row => (row.Field<string>("nama")?.ToLower().Contains(filter) ?? false) ||
+                                  (row.Field<string>("status")?.ToLower().Contains(filter) ?? false) ||
+                                  row.Field<int>("id_karyawan").ToString().Contains(filter));
+
+                if (filteredData.Any())
                 {
-                    dataGridViewKaryawan.DataSource = presensiData;
+                    dataGridViewKaryawan.DataSource = filteredData.CopyToDataTable();
                 }
                 else
                 {
-                    var filteredData = presensiData.AsEnumerable()
-                        .Where(row => row.Field<string>("status").ToLower().Contains(filter) ||
-                                      row.Field<int>("id_karyawan").ToString().Contains(filter))
-                        .CopyToDataTable();
-                    dataGridViewKaryawan.DataSource = filteredData;
+                    dataGridViewKaryawan.DataSource = null;
+                    MessageBox.Show("Tidak ada data karyawan yang cocok dengan pencarian.", "Peringatan", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }
             }
         }

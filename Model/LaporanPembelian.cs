@@ -16,8 +16,8 @@ namespace Kinar_Bakery.Model
 
         public DataTable AmbilData(DateTime tanggalAwal, DateTime tanggalAkhir)
         {
-            string query = "SELECT id_pembelian, nama_bahan, total_biaya, tanggal_pembelian " +
-                           "FROM public.pembelian WHERE tanggal_pembelian BETWEEN @awal AND @akhir";
+            string query = "SELECT id_pembelian, id_bahan AS nama_bahan, total_biaya, tanggal_pembelian " +
+                           "FROM public.transaksi_pembelian WHERE tanggal_pembelian BETWEEN @awal AND @akhir";
             var parameters = new[]
             {
                 new NpgsqlParameter("@awal", tanggalAwal),

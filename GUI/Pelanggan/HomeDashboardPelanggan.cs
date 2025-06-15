@@ -43,13 +43,14 @@ namespace Kinar_Bakery
         {
             try
             {
-                var pengguna = _kontroler.AmbilBerdasarkanId(_id_user);
+                var pengguna = _kontroler.AmbilBerdasarkanId(_id_user) as Pengguna;
                 if (pengguna != null)
                 {
                     lblNama.Text = $"Nama: {pengguna.Nama ?? ""}";
                     lblUsername.Text = $"Username: {pengguna.Username ?? ""}";
                     lblNomor_telepon.Text = $"Nomor Telepon: {pengguna.Nomor_telepon ?? ""}";
                     lblAlamat.Text = $"Alamat: {pengguna.Alamat ?? ""}";
+                    lblRoleDetails.Text = pengguna.GetRoleDetails();
                 }
             }
             catch (Exception ex)
@@ -98,8 +99,6 @@ namespace Kinar_Bakery
             }
         }
 
-
-
         private void btnKatalog_Click_1(object sender, EventArgs e)
         {
             try
@@ -145,10 +144,8 @@ namespace Kinar_Bakery
             }
         }
 
-
         private void btnHomePelanggan_Click(object sender, EventArgs e)
         {
-            
 
         }
 

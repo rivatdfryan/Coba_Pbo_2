@@ -882,11 +882,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Kinar_Bakery.csproj",
+      "projectUniqueName": "C:\\Kinar_Bakery\\Kinar Bakery PBO OOP\\Kinar_Bakery.csproj",
       "projectName": "Kinar_Bakery",
-      "projectPath": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Kinar_Bakery.csproj",
+      "projectPath": "C:\\Kinar_Bakery\\Kinar Bakery PBO OOP\\Kinar_Bakery.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\obj\\",
+      "outputPath": "C:\\Kinar_Bakery\\Kinar Bakery PBO OOP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

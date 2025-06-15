@@ -33,6 +33,7 @@
             panel12 = new Panel();
             label3 = new Label();
             panel9 = new Panel();
+            lblRoleDetails = new Label();
             btnUbah = new Button();
             lblAlamat = new Label();
             lblNomor_telepon = new Label();
@@ -96,6 +97,7 @@
             // panel9
             // 
             panel9.BackColor = Color.FromArgb(183, 150, 107);
+            panel9.Controls.Add(lblRoleDetails);
             panel9.Controls.Add(btnUbah);
             panel9.Controls.Add(lblAlamat);
             panel9.Controls.Add(lblNomor_telepon);
@@ -106,6 +108,17 @@
             panel9.Size = new Size(984, 500);
             panel9.TabIndex = 5;
             panel9.Paint += panel9_Paint;
+            // 
+            // lblRoleDetails
+            // 
+            lblRoleDetails.AutoSize = true;
+            lblRoleDetails.Font = new Font("Verdana", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblRoleDetails.ForeColor = Color.FromArgb(80, 43, 15);
+            lblRoleDetails.Location = new Point(260, 356);
+            lblRoleDetails.Name = "lblRoleDetails";
+            lblRoleDetails.Size = new Size(143, 25);
+            lblRoleDetails.TabIndex = 15;
+            lblRoleDetails.Text = "Role [Role]";
             // 
             // btnUbah
             // 
@@ -365,5 +378,6 @@
         private Button btnUbah;
         private Label lblAlamat;
         private Button btnLogOut;
+        private Label lblRoleDetails;
     }
 }

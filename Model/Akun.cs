@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Kinar_Bakery.Model
 {
     public class Akun
-    {
+    {   
         public int Id_user { get; set; }
         public string? Nama { get; set; }
         public string? Username { get; set; }

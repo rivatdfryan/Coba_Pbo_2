@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kinar_Bakery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef7432f04d74e8df51008b3c75526f2afc6cb2f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4298ed53f60712b534965fe40489dc89449a5d66")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kinar_Bakery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kinar_Bakery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

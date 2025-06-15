@@ -3,28 +3,100 @@
   "WorkspaceRootPath": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\controller\\konteksproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\konteksproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Kinar_Bakery\\Kinar Bakery PBO\\gui\\pelanggan\\keranjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\pelanggan\\keranjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\gui\\pelanggan\\katalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\pelanggan\\katalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Kinar_Bakery\\Kinar Bakery PBO\\gui\\pelanggan\\katalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\pelanggan\\katalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\controller\\kontrolerproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\kontrolerproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Kinar_Bakery\\Kinar Bakery PBO\\gui\\owner\\homedasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\owner\\homedasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\controller\\kontrolertransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\kontrolertransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Kinar_Bakery\\Kinar Bakery PBO\\gui\\karyawan\\jagakasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\karyawan\\jagakasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\controller\\kontrolerpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\kontrolerpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\gui\\karyawan\\presensikaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\karyawan\\presensikaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Kinar_Bakery\\Kinar Bakery PBO\\gui\\karyawan\\homedasboardkasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\karyawan\\homedasboardkasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Kinar_Bakery\\Kinar Bakery PBO\\gui\\pelanggan\\homedashboardpelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\pelanggan\\homedashboardpelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\controller\\kontekspengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\kontekspengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\controller\\autentikasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\autentikasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\controller\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\controller\\kontrolerpresensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\kontrolerpresensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\controller\\kontrolerlaporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\kontrolerlaporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\controller\\kontroleradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\kontroleradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\controller\\kontekstransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\kontekstransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\controller\\konteksproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\konteksproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\model\\databaseconnectionabstrak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\databaseconnectionabstrak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\koneksi_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:koneksi_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\model\\itemkeranjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\itemkeranjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\model\\katalogproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\katalogproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\model\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\model\\pengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\pengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\model\\ilaporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\ilaporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\gui\\pelanggan\\katalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\pelanggan\\katalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\gui\\pelanggan\\bestseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,76 +111,8 @@
       "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\karyawan\\jagakasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\controller\\kontrolerpresensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\kontrolerpresensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\gui\\karyawan\\homedasboardkasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\karyawan\\homedasboardkasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Kinar_Bakery\\Kinar Bakery PBO\\gui\\karyawan\\homedasboardkasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\karyawan\\homedasboardkasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\controller\\kontrolerlaporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\kontrolerlaporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\model\\presensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\presensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\model\\ilaporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\ilaporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\model\\katalogproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\katalogproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\model\\itemkeranjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\itemkeranjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\controller\\kontekspengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\kontekspengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\model\\pengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\pengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\model\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\model\\databaseconnectionabstrak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\databaseconnectionabstrak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\controller\\kontroleradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\kontroleradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\controller\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\controller\\autentikasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:controller\\autentikasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Kinar_Bakery\\Kinar Bakery PBO\\gui\\pelanggan\\katalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\pelanggan\\katalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Kinar_Bakery\\Kinar Bakery PBO\\gui\\karyawan\\jagakasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\karyawan\\jagakasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\gui\\owner\\kelolaproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -117,14 +121,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Kinar_Bakery\\Kinar Bakery PBO\\gui\\owner\\kelolaproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\owner\\kelolaproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Kinar_Bakery\\Kinar Bakery PBO\\gui\\pelanggan\\keranjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\pelanggan\\keranjang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Kinar_Bakery\\Kinar Bakery PBO\\gui\\pelanggan\\homedashboardpelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\pelanggan\\homedashboardpelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Kinar_Bakery\\Kinar Bakery PBO\\gui\\pelanggan\\formubahpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -171,16 +167,8 @@
       "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\owner\\homedasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Kinar_Bakery\\Kinar Bakery PBO\\gui\\owner\\homedasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\owner\\homedasboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\gui\\karyawan\\presensikaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\karyawan\\presensikaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Kinar_Bakery\\Kinar Bakery PBO\\gui\\karyawan\\presensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\karyawan\\presensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\gui\\karyawan\\konfirmasipesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -199,16 +187,8 @@
       "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\karyawan\\homedasboardkasir.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Kinar_Bakery\\Kinar Bakery PBO\\gui\\owner\\laporanpenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\owner\\laporanpenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\gui\\owner\\gaji.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\owner\\gaji.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\gui\\owner\\laporanpenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\owner\\laporanpenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\gui\\owner\\editproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -263,10 +243,6 @@
       "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\koneksi_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:koneksi_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar bakery pbo\\gui\\karyawan\\presensikaryawan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:gui\\karyawan\\presensikaryawan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -319,6 +295,34 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kinar_Bakery\\Kinar_Bakery\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerProduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controller\\KontrolerProduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerPengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controller\\KontrolerPengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerTransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controller\\KontrolerTransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\Presensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Model\\Presensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kinar_Bakery\\Kinar Bakery PBO\\gui\\karyawan\\presensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\karyawan\\presensi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kinar_Bakery\\Kinar Bakery PBO\\gui\\owner\\laporanpenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui\\owner\\laporanpenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\LaporanPenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GUI\\Owner\\LaporanPenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -328,7 +332,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 637,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -336,150 +340,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "KonteksTransaksi.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KonteksTransaksi.cs",
-              "RelativeDocumentMoniker": "Controller\\KonteksTransaksi.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KonteksTransaksi.cs",
-              "RelativeToolTip": "Controller\\KonteksTransaksi.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAUwDYAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T15:16:12.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "KontrolerProduk.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerProduk.cs",
-              "RelativeDocumentMoniker": "Controller\\KontrolerProduk.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerProduk.cs",
-              "RelativeToolTip": "Controller\\KontrolerProduk.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T15:38:34.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "KonteksProduk.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KonteksProduk.cs",
-              "RelativeDocumentMoniker": "Controller\\KonteksProduk.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KonteksProduk.cs",
-              "RelativeToolTip": "Controller\\KonteksProduk.cs",
-              "ViewState": "AgIAANcAAAAAAAAAAADwv+cAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T15:15:19.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "JagaKasir.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\JagaKasir.cs",
-              "RelativeDocumentMoniker": "GUI\\Karyawan\\JagaKasir.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\JagaKasir.cs",
-              "RelativeToolTip": "GUI\\Karyawan\\JagaKasir.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAywB0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T13:39:13.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BestSeller.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\BestSeller.cs",
-              "RelativeDocumentMoniker": "GUI\\Pelanggan\\BestSeller.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\BestSeller.cs",
-              "RelativeToolTip": "GUI\\Pelanggan\\BestSeller.cs",
-              "ViewState": "AgIAAJUAAAAAAAAAAAAiwKQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T12:22:30.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Katalog.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\Katalog.cs",
-              "RelativeDocumentMoniker": "GUI\\Pelanggan\\Katalog.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\Katalog.cs",
-              "RelativeToolTip": "GUI\\Pelanggan\\Katalog.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAUwCIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T14:26:55.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Keranjang.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\Keranjang.cs",
-              "RelativeDocumentMoniker": "GUI\\Pelanggan\\Keranjang.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\Keranjang.cs",
-              "RelativeToolTip": "GUI\\Pelanggan\\Keranjang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Title": "KonteksPengguna.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KonteksPengguna.cs",
+              "RelativeDocumentMoniker": "Controller\\KonteksPengguna.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KonteksPengguna.cs",
+              "RelativeToolTip": "Controller\\KonteksPengguna.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswGYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T01:15:59.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "KontrolerPengguna.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerPengguna.cs",
-              "RelativeDocumentMoniker": "Controller\\KontrolerPengguna.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerPengguna.cs",
-              "RelativeToolTip": "Controller\\KontrolerPengguna.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T15:37:46.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "KontrolerTransaksi.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerTransaksi.cs",
-              "RelativeDocumentMoniker": "Controller\\KontrolerTransaksi.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerTransaksi.cs",
-              "RelativeToolTip": "Controller\\KontrolerTransaksi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T15:39:18.927Z",
+              "WhenOpened": "2025-06-09T15:13:16.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "KontrolerPresensi.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerPresensi.cs",
-              "RelativeDocumentMoniker": "Controller\\KontrolerPresensi.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerPresensi.cs",
-              "RelativeToolTip": "Controller\\KontrolerPresensi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Controller\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\DatabaseConnection.cs",
+              "RelativeToolTip": "Controller\\DatabaseConnection.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswEIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T16:42:12.719Z",
+              "WhenOpened": "2025-06-09T15:17:57.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeDasboardkasir.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\HomeDasboardkasir.cs",
-              "RelativeDocumentMoniker": "GUI\\Karyawan\\HomeDasboardkasir.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\HomeDasboardkasir.cs",
-              "RelativeToolTip": "GUI\\Karyawan\\HomeDasboardkasir.cs",
-              "ViewState": "AgIAANwAAAAAAAAAAADgv+gAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "HomeDasboardAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\HomeDasboardAdmin.cs",
+              "RelativeDocumentMoniker": "GUI\\Owner\\HomeDasboardAdmin.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\HomeDasboardAdmin.cs [Design]",
+              "RelativeToolTip": "GUI\\Owner\\HomeDasboardAdmin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T02:24:53.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T14:46:46.379Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "HomeDasboardkasir.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\HomeDasboardkasir.cs",
               "RelativeDocumentMoniker": "GUI\\Karyawan\\HomeDasboardkasir.cs",
@@ -491,46 +390,184 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
+              "Title": "JagaKasir.cs [Design]",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\JagaKasir.cs",
+              "RelativeDocumentMoniker": "GUI\\Karyawan\\JagaKasir.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\JagaKasir.cs [Design]",
+              "RelativeToolTip": "GUI\\Karyawan\\JagaKasir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:21:45.075Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Katalog.cs [Design]",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\Katalog.cs",
+              "RelativeDocumentMoniker": "GUI\\Pelanggan\\Katalog.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\Katalog.cs [Design]",
+              "RelativeToolTip": "GUI\\Pelanggan\\Katalog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:23:32.975Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Keranjang.cs [Design]",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\Keranjang.cs",
+              "RelativeDocumentMoniker": "GUI\\Pelanggan\\Keranjang.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\Keranjang.cs [Design]*",
+              "RelativeToolTip": "GUI\\Pelanggan\\Keranjang.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:14:36.615Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Autentikasi.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\Autentikasi.cs",
+              "RelativeDocumentMoniker": "Controller\\Autentikasi.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\Autentikasi.cs",
+              "RelativeToolTip": "Controller\\Autentikasi.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv1oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T02:06:26.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PresensiKaryawan.cs [Design]",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\PresensiKaryawan.cs",
+              "RelativeDocumentMoniker": "GUI\\Karyawan\\PresensiKaryawan.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\PresensiKaryawan.cs [Design]",
+              "RelativeToolTip": "GUI\\Karyawan\\PresensiKaryawan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T04:46:30.599Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KontrolerPresensi.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerPresensi.cs",
+              "RelativeDocumentMoniker": "Controller\\KontrolerPresensi.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerPresensi.cs",
+              "RelativeToolTip": "Controller\\KontrolerPresensi.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwEIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:42:12.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeDashboardPelanggan.cs [Design]",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\HomeDashboardPelanggan.cs",
+              "RelativeDocumentMoniker": "GUI\\Pelanggan\\HomeDashboardPelanggan.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\HomeDashboardPelanggan.cs [Design]",
+              "RelativeToolTip": "GUI\\Pelanggan\\HomeDashboardPelanggan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:40:27.598Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "KontrolerLaporan.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerLaporan.cs",
               "RelativeDocumentMoniker": "Controller\\KontrolerLaporan.cs",
               "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerLaporan.cs",
               "RelativeToolTip": "Controller\\KontrolerLaporan.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T13:33:22.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Ilaporan.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\Ilaporan.cs",
-              "RelativeDocumentMoniker": "Model\\Ilaporan.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\Ilaporan.cs",
-              "RelativeToolTip": "Model\\Ilaporan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "KontrolerAdmin.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerAdmin.cs",
+              "RelativeDocumentMoniker": "Controller\\KontrolerAdmin.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerAdmin.cs",
+              "RelativeToolTip": "Controller\\KontrolerAdmin.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswDsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T13:34:10.03Z",
+              "WhenOpened": "2025-06-13T12:59:36.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Presensi.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\Presensi.cs",
-              "RelativeDocumentMoniker": "Model\\Presensi.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\Presensi.cs",
-              "RelativeToolTip": "Model\\Presensi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Title": "KonteksTransaksi.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KonteksTransaksi.cs",
+              "RelativeDocumentMoniker": "Controller\\KonteksTransaksi.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KonteksTransaksi.cs",
+              "RelativeToolTip": "Controller\\KonteksTransaksi.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAswL4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T02:59:05.9Z",
+              "WhenOpened": "2025-06-09T15:16:12.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KonteksProduk.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KonteksProduk.cs",
+              "RelativeDocumentMoniker": "Controller\\KonteksProduk.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KonteksProduk.cs",
+              "RelativeToolTip": "Controller\\KonteksProduk.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAkwP8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:15:19.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "DatabaseConnectionAbstrak.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\DatabaseConnectionAbstrak.cs",
+              "RelativeDocumentMoniker": "Model\\DatabaseConnectionAbstrak.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\DatabaseConnectionAbstrak.cs",
+              "RelativeToolTip": "Model\\DatabaseConnectionAbstrak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T02:53:14.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Koneksi_Database.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Koneksi_Database.cs",
+              "RelativeDocumentMoniker": "Koneksi_Database.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Koneksi_Database.cs",
+              "RelativeToolTip": "Koneksi_Database.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T05:15:55.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemKeranjang.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\ItemKeranjang.cs",
+              "RelativeDocumentMoniker": "Model\\ItemKeranjang.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\ItemKeranjang.cs",
+              "RelativeToolTip": "Model\\ItemKeranjang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:11:34.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "KatalogProduk.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\KatalogProduk.cs",
               "RelativeDocumentMoniker": "Model\\KatalogProduk.cs",
@@ -543,52 +580,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ItemKeranjang.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\ItemKeranjang.cs",
-              "RelativeDocumentMoniker": "Model\\ItemKeranjang.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\ItemKeranjang.cs",
-              "RelativeToolTip": "Model\\ItemKeranjang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T15:11:34.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "KonteksPengguna.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KonteksPengguna.cs",
-              "RelativeDocumentMoniker": "Controller\\KonteksPengguna.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KonteksPengguna.cs",
-              "RelativeToolTip": "Controller\\KonteksPengguna.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwGYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T15:13:16.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Pengguna.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\Pengguna.cs",
-              "RelativeDocumentMoniker": "Model\\Pengguna.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\Pengguna.cs",
-              "RelativeToolTip": "Model\\Pengguna.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T15:09:00.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Produk.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\Produk.cs",
               "RelativeDocumentMoniker": "Model\\Produk.cs",
               "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\Produk.cs",
               "RelativeToolTip": "Model\\Produk.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T15:09:55.326Z",
               "EditorCaption": ""
@@ -596,14 +594,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "DatabaseConnectionAbstrak.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\DatabaseConnectionAbstrak.cs",
-              "RelativeDocumentMoniker": "Model\\DatabaseConnectionAbstrak.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\DatabaseConnectionAbstrak.cs",
-              "RelativeToolTip": "Model\\DatabaseConnectionAbstrak.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "Pengguna.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\Pengguna.cs",
+              "RelativeDocumentMoniker": "Model\\Pengguna.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\Pengguna.cs",
+              "RelativeToolTip": "Model\\Pengguna.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T02:53:14.852Z",
+              "WhenOpened": "2025-06-09T15:09:00.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Ilaporan.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\Ilaporan.cs",
+              "RelativeDocumentMoniker": "Model\\Ilaporan.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\Ilaporan.cs",
+              "RelativeToolTip": "Model\\Ilaporan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:34:10.03Z",
               "EditorCaption": ""
             },
             {
@@ -614,65 +625,127 @@
               "RelativeDocumentMoniker": "Model\\Akun.cs",
               "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\Akun.cs",
               "RelativeToolTip": "Model\\Akun.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T02:12:05.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "KontrolerAdmin.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerAdmin.cs",
-              "RelativeDocumentMoniker": "Controller\\KontrolerAdmin.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerAdmin.cs",
-              "RelativeToolTip": "Controller\\KontrolerAdmin.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAqwBAAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "Katalog.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\Katalog.cs",
+              "RelativeDocumentMoniker": "GUI\\Pelanggan\\Katalog.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\Katalog.cs",
+              "RelativeToolTip": "GUI\\Pelanggan\\Katalog.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwDkAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T12:59:36.089Z",
+              "WhenOpened": "2025-06-09T14:26:55.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DatabaseConnection.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\DatabaseConnection.cs",
-              "RelativeDocumentMoniker": "Controller\\DatabaseConnection.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\DatabaseConnection.cs",
-              "RelativeToolTip": "Controller\\DatabaseConnection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "DocumentIndex": 77,
+              "Title": "KontrolerTransaksi.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerTransaksi.cs",
+              "RelativeDocumentMoniker": "Controller\\KontrolerTransaksi.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerTransaksi.cs",
+              "RelativeToolTip": "Controller\\KontrolerTransaksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T15:17:57.769Z",
+              "WhenOpened": "2025-06-09T15:39:18.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "KontrolerPengguna.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerPengguna.cs",
+              "RelativeDocumentMoniker": "Controller\\KontrolerPengguna.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerPengguna.cs",
+              "RelativeToolTip": "Controller\\KontrolerPengguna.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:37:46.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Keranjang.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\Keranjang.cs",
+              "RelativeDocumentMoniker": "GUI\\Pelanggan\\Keranjang.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\Keranjang.cs*",
+              "RelativeToolTip": "GUI\\Pelanggan\\Keranjang.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:15:59.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "Autentikasi.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\Autentikasi.cs",
-              "RelativeDocumentMoniker": "Controller\\Autentikasi.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\Autentikasi.cs",
-              "RelativeToolTip": "Controller\\Autentikasi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "BestSeller.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\BestSeller.cs",
+              "RelativeDocumentMoniker": "GUI\\Pelanggan\\BestSeller.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\BestSeller.cs",
+              "RelativeToolTip": "GUI\\Pelanggan\\BestSeller.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAiwKQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T02:06:26.224Z",
+              "WhenOpened": "2025-06-13T12:22:30.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "JagaKasir.cs [Design]",
+              "Title": "JagaKasir.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\JagaKasir.cs",
               "RelativeDocumentMoniker": "GUI\\Karyawan\\JagaKasir.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\JagaKasir.cs [Design]",
-              "RelativeToolTip": "GUI\\Karyawan\\JagaKasir.cs [Design]",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\JagaKasir.cs",
+              "RelativeToolTip": "GUI\\Karyawan\\JagaKasir.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAywB0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T11:21:45.075Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-10T13:39:13.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "KontrolerProduk.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerProduk.cs",
+              "RelativeDocumentMoniker": "Controller\\KontrolerProduk.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Controller\\KontrolerProduk.cs",
+              "RelativeToolTip": "Controller\\KontrolerProduk.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:38:34.09Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
+              "Title": "HomeDasboardkasir.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\HomeDasboardkasir.cs",
+              "RelativeDocumentMoniker": "GUI\\Karyawan\\HomeDasboardkasir.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\HomeDasboardkasir.cs",
+              "RelativeToolTip": "GUI\\Karyawan\\HomeDasboardkasir.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAADgv+gAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:24:53.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Presensi.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\Presensi.cs",
+              "RelativeDocumentMoniker": "Model\\Presensi.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Model\\Presensi.cs",
+              "RelativeToolTip": "Model\\Presensi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T02:59:05.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "KelolaProduk.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\KelolaProduk.cs",
               "RelativeDocumentMoniker": "GUI\\Owner\\KelolaProduk.cs",
@@ -680,58 +753,23 @@
               "RelativeToolTip": "GUI\\Owner\\KelolaProduk.cs",
               "ViewState": "AgIAAJgAAAAAAAAAAIA2wFQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T14:54:36.475Z"
+              "WhenOpened": "2025-06-13T14:54:36.475Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "KelolaProduk.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\KelolaProduk.cs",
               "RelativeDocumentMoniker": "GUI\\Owner\\KelolaProduk.cs",
               "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\KelolaProduk.cs [Design]",
               "RelativeToolTip": "GUI\\Owner\\KelolaProduk.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T12:43:51.67Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Keranjang.cs [Design]",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\Keranjang.cs",
-              "RelativeDocumentMoniker": "GUI\\Pelanggan\\Keranjang.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\Keranjang.cs [Design]",
-              "RelativeToolTip": "GUI\\Pelanggan\\Keranjang.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T01:14:36.615Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Katalog.cs [Design]",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\Katalog.cs",
-              "RelativeDocumentMoniker": "GUI\\Pelanggan\\Katalog.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\Katalog.cs [Design]",
-              "RelativeToolTip": "GUI\\Pelanggan\\Katalog.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T12:23:32.975Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-13T12:43:51.67Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "HomeDashboardPelanggan.cs [Design]",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\HomeDashboardPelanggan.cs",
-              "RelativeDocumentMoniker": "GUI\\Pelanggan\\HomeDashboardPelanggan.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar_Bakery_PBO\\GUI\\Pelanggan\\HomeDashboardPelanggan.cs [Design]",
-              "RelativeToolTip": "..\\Kinar_Bakery_PBO\\GUI\\Pelanggan\\HomeDashboardPelanggan.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T12:40:27.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
               "Title": "FormUbahPengguna.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\FormUbahPengguna.cs",
               "RelativeDocumentMoniker": "GUI\\Pelanggan\\FormUbahPengguna.cs",
@@ -742,19 +780,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "BestSeller.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\BestSeller.cs",
               "RelativeDocumentMoniker": "GUI\\Pelanggan\\BestSeller.cs",
               "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\BestSeller.cs [Design]",
               "RelativeToolTip": "GUI\\Pelanggan\\BestSeller.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T12:21:28.036Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-13T12:21:28.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "Gaji.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\Gaji.cs",
               "RelativeDocumentMoniker": "GUI\\Owner\\Gaji.cs",
@@ -767,7 +804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "Gaji.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\Gaji.cs",
               "RelativeDocumentMoniker": "GUI\\Owner\\Gaji.cs",
@@ -778,7 +815,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "TambahProduk.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\TambahProduk.cs",
               "RelativeDocumentMoniker": "GUI\\Owner\\TambahProduk.cs",
@@ -791,7 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "TambahProduk.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\TambahProduk.cs",
               "RelativeDocumentMoniker": "GUI\\Owner\\TambahProduk.cs",
@@ -802,7 +839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "MonitoringKaryawan.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\MonitoringKaryawan.cs",
               "RelativeDocumentMoniker": "GUI\\Owner\\MonitoringKaryawan.cs",
@@ -815,7 +852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "MonitoringKaryawan.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\MonitoringKaryawan.cs",
               "RelativeDocumentMoniker": "GUI\\Owner\\MonitoringKaryawan.cs",
@@ -826,7 +863,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "LaporanDashboardAdmin.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\LaporanDashboardAdmin.cs",
               "RelativeDocumentMoniker": "GUI\\Owner\\LaporanDashboardAdmin.cs",
@@ -839,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "LaporanDashboardAdmin.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\LaporanDashboardAdmin.cs",
               "RelativeDocumentMoniker": "GUI\\Owner\\LaporanDashboardAdmin.cs",
@@ -850,7 +887,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 40,
               "Title": "HomeDasboardAdmin.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\HomeDasboardAdmin.cs",
               "RelativeDocumentMoniker": "GUI\\Owner\\HomeDasboardAdmin.cs",
@@ -863,18 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "HomeDasboardAdmin.cs [Design]",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\HomeDasboardAdmin.cs",
-              "RelativeDocumentMoniker": "GUI\\Owner\\HomeDasboardAdmin.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar_Bakery_PBO\\GUI\\Owner\\HomeDasboardAdmin.cs [Design]",
-              "RelativeToolTip": "..\\Kinar_Bakery_PBO\\GUI\\Owner\\HomeDasboardAdmin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T14:46:46.379Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 41,
               "Title": "PresensiKaryawan.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\PresensiKaryawan.cs",
               "RelativeDocumentMoniker": "GUI\\Karyawan\\PresensiKaryawan.cs",
@@ -887,7 +913,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 79,
               "Title": "Presensi.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\Presensi.cs",
               "RelativeDocumentMoniker": "GUI\\Karyawan\\Presensi.cs",
@@ -898,7 +924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 42,
               "Title": "KonfirmasiPesanan.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\KonfirmasiPesanan.cs",
               "RelativeDocumentMoniker": "GUI\\Karyawan\\KonfirmasiPesanan.cs",
@@ -911,7 +937,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 43,
               "Title": "KonfirmasiPesanan.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\KonfirmasiPesanan.cs",
               "RelativeDocumentMoniker": "GUI\\Karyawan\\KonfirmasiPesanan.cs",
@@ -922,7 +948,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 44,
               "Title": "JagaKasir.Designer.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\JagaKasir.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\Karyawan\\JagaKasir.Designer.cs",
@@ -935,7 +961,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 45,
               "Title": "HomeDasboardkasir.Designer.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\HomeDasboardkasir.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\Karyawan\\HomeDasboardkasir.Designer.cs",
@@ -948,7 +974,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 46,
               "Title": "Gaji.Designer.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\Gaji.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\Owner\\Gaji.Designer.cs",
@@ -960,7 +986,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 80,
               "Title": "LaporanPenjualan.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\LaporanPenjualan.cs",
               "RelativeDocumentMoniker": "GUI\\Owner\\LaporanPenjualan.cs",
@@ -971,7 +997,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 81,
               "Title": "LaporanPenjualan.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\LaporanPenjualan.cs",
               "RelativeDocumentMoniker": "GUI\\Owner\\LaporanPenjualan.cs",
@@ -983,7 +1009,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 47,
               "Title": "EditProduk.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\EditProduk.cs",
               "RelativeDocumentMoniker": "GUI\\Owner\\EditProduk.cs",
@@ -996,7 +1022,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 48,
               "Title": "EditProduk.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\EditProduk.cs",
               "RelativeDocumentMoniker": "GUI\\Owner\\EditProduk.cs",
@@ -1007,7 +1033,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 49,
               "Title": "EditProduk.Designer.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\EditProduk.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\Owner\\EditProduk.Designer.cs",
@@ -1019,7 +1045,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 50,
               "Title": "KelolaProduk.Designer.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\KelolaProduk.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\Owner\\KelolaProduk.Designer.cs",
@@ -1027,24 +1053,22 @@
               "RelativeToolTip": "GUI\\Owner\\KelolaProduk.Designer.cs",
               "ViewState": "AgIAAB8BAAAAAAAAAAAAwDABAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T12:51:14.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T12:51:14.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 52,
               "Title": "KelolaProduk.resx",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\KelolaProduk.resx",
               "RelativeDocumentMoniker": "GUI\\Owner\\KelolaProduk.resx",
               "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\KelolaProduk.resx",
               "RelativeToolTip": "GUI\\Owner\\KelolaProduk.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-06-13T12:51:13.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T12:51:13.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 51,
               "Title": "LaporanDashboardAdmin.Designer.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\LaporanDashboardAdmin.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\Owner\\LaporanDashboardAdmin.Designer.cs",
@@ -1056,7 +1080,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 53,
               "Title": "HomeDasboardAdmin.Designer.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Owner\\HomeDasboardAdmin.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\Owner\\HomeDasboardAdmin.Designer.cs",
@@ -1064,11 +1088,12 @@
               "RelativeToolTip": "GUI\\Owner\\HomeDasboardAdmin.Designer.cs",
               "ViewState": "AgIAAGkBAAAAAAAAAAAAwHABAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T13:00:42.524Z"
+              "WhenOpened": "2025-06-13T13:00:42.524Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 54,
               "Title": "BestSeller.Designer.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\BestSeller.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\Pelanggan\\BestSeller.Designer.cs",
@@ -1076,12 +1101,11 @@
               "RelativeToolTip": "GUI\\Pelanggan\\BestSeller.Designer.cs",
               "ViewState": "AgIAAFIAAAAAAAAAAAAAwIsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T12:22:47.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T12:22:47.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 55,
               "Title": "Katalog.Designer.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\Katalog.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\Pelanggan\\Katalog.Designer.cs",
@@ -1089,11 +1113,12 @@
               "RelativeToolTip": "GUI\\Pelanggan\\Katalog.Designer.cs",
               "ViewState": "AgIAAFEBAAAAAAAAAAAlwGIBAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T14:26:59.253Z"
+              "WhenOpened": "2025-06-09T14:26:59.253Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 56,
               "Title": "HomeDashboardPelanggan.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\HomeDashboardPelanggan.cs",
               "RelativeDocumentMoniker": "GUI\\Pelanggan\\HomeDashboardPelanggan.cs",
@@ -1105,7 +1130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 57,
               "Title": "FormUbahPengguna.Designer.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\FormUbahPengguna.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\Pelanggan\\FormUbahPengguna.Designer.cs",
@@ -1117,7 +1142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 60,
               "Title": "PresensiKaryawan.Designer.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\PresensiKaryawan.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\Karyawan\\PresensiKaryawan.Designer.cs",
@@ -1130,7 +1155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 61,
               "Title": "JagaKasir.resx",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Karyawan\\JagaKasir.resx",
               "RelativeDocumentMoniker": "GUI\\Karyawan\\JagaKasir.resx",
@@ -1142,19 +1167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "Koneksi_Database.cs",
-              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Koneksi_Database.cs",
-              "RelativeDocumentMoniker": "Koneksi_Database.cs",
-              "ToolTip": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Koneksi_Database.cs",
-              "RelativeToolTip": "Koneksi_Database.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T05:15:55.407Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 62,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Login.cs",
               "RelativeDocumentMoniker": "GUI\\Login.cs",
@@ -1167,7 +1180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 59,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Login.cs",
               "RelativeDocumentMoniker": "GUI\\Login.cs",
@@ -1178,7 +1191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 63,
               "Title": "Register.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Register.cs",
               "RelativeDocumentMoniker": "GUI\\Register.cs",
@@ -1191,7 +1204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 58,
               "Title": "FormUbahPengguna.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\FormUbahPengguna.cs",
               "RelativeDocumentMoniker": "GUI\\Pelanggan\\FormUbahPengguna.cs",
@@ -1203,7 +1216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 64,
               "Title": "Register.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Register.cs",
               "RelativeDocumentMoniker": "GUI\\Register.cs",
@@ -1214,7 +1227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 65,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -1226,7 +1239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 66,
               "Title": "HomeDashboardPelanggan.Designer.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Pelanggan\\HomeDashboardPelanggan.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\Pelanggan\\HomeDashboardPelanggan.Designer.cs",
@@ -1234,11 +1247,12 @@
               "RelativeToolTip": "GUI\\Pelanggan\\HomeDashboardPelanggan.Designer.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAMBkwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T20:57:46.988Z"
+              "WhenOpened": "2025-06-09T20:57:46.988Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 67,
               "Title": "Register.Designer.cs",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\GUI\\Register.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\Register.Designer.cs",
@@ -1250,7 +1264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 69,
               "Title": "HomeDasboardAdmin.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar_Bakery\\HomeDasboardAdmin.cs",
               "RelativeDocumentMoniker": "..\\Kinar_Bakery\\HomeDasboardAdmin.cs",
@@ -1261,7 +1275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 70,
               "Title": "HomeDasboardkasir.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar_Bakery\\HomeDasboardkasir.cs",
               "RelativeDocumentMoniker": "..\\Kinar_Bakery\\HomeDasboardkasir.cs",
@@ -1272,7 +1286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 68,
               "Title": "Paperclip.png -  [English (United States)] - PNG [31x34, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar Bakery PBO\\Resources\\Paperclip.png",
               "RelativeDocumentMoniker": "Resources\\Paperclip.png",
@@ -1284,7 +1298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 71,
               "Title": "HomeDashboardPelanggan.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar_Bakery\\HomeDashboardPelanggan.cs",
               "RelativeDocumentMoniker": "..\\Kinar_Bakery\\HomeDashboardPelanggan.cs",
@@ -1295,7 +1309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 72,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar_Bakery\\Form1.cs",
               "RelativeDocumentMoniker": "..\\Kinar_Bakery\\Form1.cs",
@@ -1306,7 +1320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 73,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar_Bakery\\Login.cs",
               "RelativeDocumentMoniker": "..\\Kinar_Bakery\\Login.cs",
@@ -1317,7 +1331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 74,
               "Title": "Register.cs [Design]",
               "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar_Bakery\\Register.cs",
               "RelativeDocumentMoniker": "..\\Kinar_Bakery\\Register.cs",

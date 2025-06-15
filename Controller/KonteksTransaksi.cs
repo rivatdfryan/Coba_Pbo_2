@@ -50,8 +50,7 @@ namespace Kinar_Bakery.Controller
         {
             try
             {
-                // Logika harga diambil dari ProdukController (asumsi ada)
-                var produkController = new KonteksProduk(); // Menggunakan KonteksProduk yang sudah ada
+                var produkController = new KonteksProduk(); 
                 var produk = produkController.AmbilBerdasarkanId(id_produk.ToString());
                 if (produk == null)
                 {
@@ -188,21 +187,5 @@ namespace Kinar_Bakery.Controller
                 throw new Exception($"Gagal menghapus pesanan sementara: {ex.Message}");
             }
         }
-
-       
-        //public List<ItemKeranjang> AmbilKeranjang(int id_pelanggan)
-        //{
-        //    return AmbilKeranjang(id_pelanggan); // Panggil metode yang sudah ada
-        //}
-
-        //public void TambahKeKeranjang(int id_produk, int jumlah, int id_pelanggan)
-        //{
-        //    TambahTransaksi(id_produk, jumlah, id_pelanggan); // Panggil metode yang sudah ada
-        //}
-
-        //public void HapusTransaksi(int id_produk)
-        //{
-        //    HapusTransaksi(id_produk); // Panggil metode yang sudah ada
-        //}
     }
 }

@@ -124,9 +124,9 @@
             // dataGridViewKeranjang
             // 
             dataGridViewKeranjang.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewKeranjang.Location = new Point(22, 79);
+            dataGridViewKeranjang.Location = new Point(273, 99);
             dataGridViewKeranjang.Name = "dataGridViewKeranjang";
-            dataGridViewKeranjang.Size = new Size(959, 325);
+            dataGridViewKeranjang.Size = new Size(446, 325);
             dataGridViewKeranjang.TabIndex = 0;
             // 
             // txtDashboardKasir

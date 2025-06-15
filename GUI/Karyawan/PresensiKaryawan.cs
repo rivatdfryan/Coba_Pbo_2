@@ -82,7 +82,6 @@ namespace Kinar_Bakery.GUI
 
             try
             {
-                // Cari id_karyawan berdasarkan id_user
                 string idQuery = "SELECT id_karyawan FROM public.karyawan WHERE id_user = @id_user";
                 var paramId = new[] { new NpgsqlParameter("@id_user", _id_user) };
                 var result = _dbConnection.ExecuteQuery(idQuery, paramId);
@@ -95,7 +94,6 @@ namespace Kinar_Bakery.GUI
 
                 int id_karyawan = Convert.ToInt32(result.Rows[0]["id_karyawan"]);
 
-                // Simpan data presensi
                 string insertQuery = @"
                     INSERT INTO public.presensi (id_karyawan, tanggal, jam_masuk, jam_keluar, status)
                     VALUES (@id_karyawan, @tanggal, @jam_masuk, @jam_keluar, @status)";

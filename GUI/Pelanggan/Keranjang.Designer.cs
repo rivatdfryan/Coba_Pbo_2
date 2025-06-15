@@ -168,6 +168,7 @@
             btnLogOut.TabIndex = 11;
             btnLogOut.Text = "LOGOUT";
             btnLogOut.UseVisualStyleBackColor = false;
+            btnLogOut.Click += btnLogOut_Click;
             // 
             // panel7
             // 

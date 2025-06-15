@@ -185,13 +185,6 @@ namespace Kinar_Bakery
             }
         }
 
-
-        // Placeholder jika diperlukan untuk event lainnya
-        private void lblSelamatDatangnamaKasir_Click(object sender, EventArgs e) { }
-        private void lblTotalPenjualanProduk_Click(object sender, EventArgs e) { }
-        private void lblTotalPendapatanBakery_Click(object sender, EventArgs e) { }
-        private void lblStatusPresensi_Click(object sender, EventArgs e) { }
-
         private void lblTotalPenjualanProduk_Click_1(object sender, EventArgs e)
         {
             if (!DateTime.TryParse(lblPilihTanggalHariIni.Text, out DateTime tanggal))
@@ -263,12 +256,10 @@ namespace Kinar_Bakery
 
             try
             {
-                // Ambil data dari tabel transaksi_penjualan
                 var (totalProduk, totalPendapatan) = AmbilTotalPenjualanKasir(_id_user, tanggal);
                 lblTotalPenjualanProduk.Text = $"{totalProduk} produk";
                 lblTotalPendapatanBakery.Text = $"Rp {totalPendapatan:N0}";
 
-                // Ambil data presensi
                 lblStatusPresensi.Text = AmbilStatusPresensi(_id_user, tanggal);
             }
             catch (Exception ex)

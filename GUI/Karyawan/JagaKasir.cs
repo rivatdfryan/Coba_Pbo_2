@@ -43,7 +43,6 @@ namespace Kinar_Bakery.GUI
             var hasil = _kontrolerProduk.CariProduk(keyword);
             dataGridView1.DataSource = hasil;
 
-            // Optional: Auto resize columns
             dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
         }
 

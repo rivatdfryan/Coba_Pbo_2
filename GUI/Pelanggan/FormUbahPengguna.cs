@@ -34,7 +34,7 @@ namespace Kinar_Bakery.GUI
                 if (pengguna != null)
                 {
                     txtNama.Text = pengguna.Nama ?? string.Empty;
-                    txtUsername.Text = pengguna.Username ?? string.Empty; // Tambahkan TextBox untuk Username
+                    txtUsername.Text = pengguna.Username ?? string.Empty; 
                     txtNomorTelepon.Text = pengguna.Nomor_telepon ?? string.Empty;
                     txtAlamat.Text = pengguna.Alamat ?? string.Empty;
                 }
@@ -49,7 +49,7 @@ namespace Kinar_Bakery.GUI
         {
             try
             {
-                if (string.IsNullOrEmpty(txtUsername.Text)) // Validasi agar username tidak null
+                if (string.IsNullOrEmpty(txtUsername.Text)) 
                 {
                     MessageBox.Show("Username tidak boleh kosong!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return;
@@ -59,10 +59,10 @@ namespace Kinar_Bakery.GUI
                 {
                     Id_user = _id_user,
                     Nama = txtNama.Text,
-                    Username = txtUsername.Text, // Sertakan Username
+                    Username = txtUsername.Text, 
                     Nomor_telepon = txtNomorTelepon.Text,
                     Alamat = txtAlamat.Text,
-                    Role = "pelanggan" // Pastikan role sesuai constraint
+                    Role = "pelanggan" 
                 };
 
                 _kontrolerPengguna.Perbarui(pengguna);

@@ -130,5 +130,34 @@ namespace Kinar_Bakery.GUI
                 this.Show();
             }
         }
+
+        private void btnLogOut_Click(object sender, EventArgs e)
+        {
+            var result = MessageBox.Show(
+            "Apakah Anda yakin untuk logout?",
+            "Konfirmasi",
+            MessageBoxButtons.YesNo,
+            MessageBoxIcon.Question
+            );
+
+            if (result == DialogResult.Yes)
+            {
+                try
+                {
+                    this.Hide();
+                    new Login().ShowDialog();
+                    this.Show();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show($"Gagal membuka best seller: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    this.Show();
+                }
+            }
+            else
+            {
+
+            }
+        }
     }
 }

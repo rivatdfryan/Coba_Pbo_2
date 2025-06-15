@@ -30,6 +30,7 @@
         {
             panel1 = new Panel();
             panel2 = new Panel();
+            txtAlamat = new TextBox();
             linkLabel1 = new LinkLabel();
             button1 = new Button();
             Password = new TextBox();
@@ -41,7 +42,7 @@
             NamaLengkap = new TextBox();
             label2 = new Label();
             label1 = new Label();
-            txtAlamat = new TextBox();
+            label6 = new Label();
             panel1.SuspendLayout();
             panel2.SuspendLayout();
             SuspendLayout();
@@ -59,6 +60,7 @@
             // panel2
             // 
             panel2.BackColor = Color.FromArgb(251, 238, 215);
+            panel2.Controls.Add(label6);
             panel2.Controls.Add(txtAlamat);
             panel2.Controls.Add(linkLabel1);
             panel2.Controls.Add(button1);
@@ -73,13 +75,21 @@
             panel2.Controls.Add(label1);
             panel2.Location = new Point(302, 122);
             panel2.Name = "panel2";
-            panel2.Size = new Size(675, 461);
+            panel2.Size = new Size(675, 501);
             panel2.TabIndex = 0;
+            // 
+            // txtAlamat
+            // 
+            txtAlamat.Font = new Font("Segoe UI", 15F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            txtAlamat.Location = new Point(100, 376);
+            txtAlamat.Name = "txtAlamat";
+            txtAlamat.Size = new Size(474, 34);
+            txtAlamat.TabIndex = 11;
             // 
             // linkLabel1
             // 
             linkLabel1.AutoSize = true;
-            linkLabel1.Location = new Point(506, 357);
+            linkLabel1.Location = new Point(522, 413);
             linkLabel1.Name = "linkLabel1";
             linkLabel1.Size = new Size(37, 15);
             linkLabel1.TabIndex = 10;
@@ -90,7 +100,7 @@
             // button1
             // 
             button1.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.Location = new Point(287, 379);
+            button1.Location = new Point(287, 437);
             button1.Name = "button1";
             button1.Size = new Size(115, 38);
             button1.TabIndex = 9;
@@ -190,12 +200,17 @@
             label1.TabIndex = 0;
             label1.Text = "Register";
             // 
-            // txtAlamat
+            // label6
             // 
-            txtAlamat.Location = new Point(106, 367);
-            txtAlamat.Name = "txtAlamat";
-            txtAlamat.Size = new Size(100, 23);
-            txtAlamat.TabIndex = 11;
+            label6.AutoSize = true;
+            label6.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label6.ForeColor = Color.FromArgb(80, 43, 15);
+            label6.ImageAlign = ContentAlignment.TopCenter;
+            label6.Location = new Point(103, 356);
+            label6.Name = "label6";
+            label6.Size = new Size(52, 17);
+            label6.TabIndex = 12;
+            label6.Text = "Alamat";
             // 
             // Register
             // 
@@ -228,5 +243,6 @@
         private Button button1;
         private LinkLabel linkLabel1;
         private TextBox txtAlamat;
+        private Label label6;
     }
 }

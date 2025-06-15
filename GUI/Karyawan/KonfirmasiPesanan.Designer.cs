@@ -82,16 +82,16 @@
             label1.AutoSize = true;
             label1.Location = new Point(689, 482);
             label1.Name = "label1";
-            label1.Size = new Size(35, 13);
+            label1.Size = new Size(10, 13);
             label1.TabIndex = 2;
-            label1.Text = "label1";
+            label1.Text = " ";
             // 
             // dataGridViewPesanan
             // 
             dataGridViewPesanan.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewPesanan.Location = new Point(210, 53);
+            dataGridViewPesanan.Location = new Point(268, 57);
             dataGridViewPesanan.Name = "dataGridViewPesanan";
-            dataGridViewPesanan.Size = new Size(527, 198);
+            dataGridViewPesanan.Size = new Size(445, 361);
             dataGridViewPesanan.TabIndex = 1;
             // 
             // btnKonfirmasi

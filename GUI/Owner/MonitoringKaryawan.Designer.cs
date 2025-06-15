@@ -100,9 +100,9 @@
             // dataGridViewKaryawan
             // 
             dataGridViewKaryawan.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewKaryawan.Location = new Point(379, 239);
+            dataGridViewKaryawan.Location = new Point(491, 249);
             dataGridViewKaryawan.Name = "dataGridViewKaryawan";
-            dataGridViewKaryawan.Size = new Size(740, 277);
+            dataGridViewKaryawan.Size = new Size(554, 277);
             dataGridViewKaryawan.TabIndex = 16;
             dataGridViewKaryawan.CellContentClick += dataGridViewKaryawan_CellContentClick;
             // 

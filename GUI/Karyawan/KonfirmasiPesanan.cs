@@ -1,5 +1,4 @@
 ﻿using Kinar_Bakery.Controller;
-using Kinar_Bakery.Model;
 using Npgsql;
 using System;
 using System.Data;
@@ -121,7 +120,7 @@ namespace Kinar_Bakery.GUI
             try
             {
                 this.Hide();
-                new Presensi(_id_user).ShowDialog();
+                new PresensiKaryawan(_id_user).ShowDialog();
                 this.Show();
             }
             catch (Exception ex)

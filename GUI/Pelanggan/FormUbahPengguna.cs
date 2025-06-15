@@ -9,7 +9,7 @@ namespace Kinar_Bakery.GUI
     {
         public event EventHandler ProfileUpdated;
         private readonly int _id_user;
-        private readonly KontrolerPengguna _kontrolerPengguna;
+        private readonly KonteksPengguna _kontrolerPengguna;
 
         public FormUbahPengguna(int id_user)
         {
@@ -17,7 +17,7 @@ namespace Kinar_Bakery.GUI
             {
                 InitializeComponent();
                 _id_user = id_user;
-                _kontrolerPengguna = new KontrolerPengguna();
+                _kontrolerPengguna = new KonteksPengguna();
                 LoadData();
             }
             catch (Exception ex)
@@ -30,7 +30,7 @@ namespace Kinar_Bakery.GUI
         {
             try
             {
-                var pengguna = _kontrolerPengguna.AmbilPengguna(_id_user);
+                var pengguna = _kontrolerPengguna.AmbilBerdasarkanId(_id_user);
                 if (pengguna != null)
                 {
                     txtNama.Text = pengguna.Nama ?? string.Empty;
@@ -65,7 +65,7 @@ namespace Kinar_Bakery.GUI
                     Role = "pelanggan" // Pastikan role sesuai constraint
                 };
 
-                _kontrolerPengguna.PerbaruiPengguna(pengguna);
+                _kontrolerPengguna.Perbarui(pengguna);
                 MessageBox.Show("Data pengguna berhasil diperbarui!", "Sukses", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 ProfileUpdated?.Invoke(this, EventArgs.Empty);
                 this.Close();
@@ -74,6 +74,11 @@ namespace Kinar_Bakery.GUI
             {
                 MessageBox.Show($"Gagal menyimpan data: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        }
+
+        private void btnHomePelanggan_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -16,8 +16,4 @@ namespace Kinar_Bakery.Model
     }
 }
 
-    //public int Id_produk { get => _id_produk; set => _id_produk = value; }
-    //public string Nama_produk { get => _nama_produk; set => _nama_produk = value; }
-    //public int Jumlah { get => _jumlah; set => _jumlah = value; }
-    //public decimal Total_harga { get => _total_harga; set => _total_harga = value; }
 

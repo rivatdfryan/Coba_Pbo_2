@@ -115,9 +115,9 @@
             lblTotal.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblTotal.Location = new Point(840, 158);
             lblTotal.Name = "lblTotal";
-            lblTotal.Size = new Size(57, 20);
+            lblTotal.Size = new Size(14, 20);
             lblTotal.TabIndex = 8;
-            lblTotal.Text = "label9";
+            lblTotal.Text = ".";
             lblTotal.Click += lblTotal_Click;
             // 
             // lblHarga
@@ -126,9 +126,9 @@
             lblHarga.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblHarga.Location = new Point(840, 52);
             lblHarga.Name = "lblHarga";
-            lblHarga.Size = new Size(57, 20);
+            lblHarga.Size = new Size(14, 20);
             lblHarga.TabIndex = 7;
-            lblHarga.Text = "label8";
+            lblHarga.Text = ".";
             lblHarga.Click += lblHarga_Click;
             // 
             // label7
@@ -147,9 +147,9 @@
             lblJumlah.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblJumlah.Location = new Point(471, 52);
             lblJumlah.Name = "lblJumlah";
-            lblJumlah.Size = new Size(57, 20);
+            lblJumlah.Size = new Size(14, 20);
             lblJumlah.TabIndex = 5;
-            lblJumlah.Text = "label6";
+            lblJumlah.Text = ".";
             lblJumlah.Click += lblJumlah_Click;
             // 
             // label5
@@ -178,9 +178,9 @@
             lblNama.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblNama.Location = new Point(27, 52);
             lblNama.Name = "lblNama";
-            lblNama.Size = new Size(89, 20);
+            lblNama.Size = new Size(14, 20);
             lblNama.TabIndex = 2;
-            lblNama.Text = "nama roti ";
+            lblNama.Text = ".";
             lblNama.Click += lblNama_Click;
             // 
             // label1

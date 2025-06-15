@@ -40,16 +40,13 @@
     <Compile Update="GUI\Pelanggan\Keranjang.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="GUI\Owner\LaporanPenjualan.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="GUI\Login.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="GUI\Owner\MonitoringKaryawan.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="GUI\Karyawan\Presensi.cs">
+    <Compile Update="GUI\Karyawan\PresensiKaryawan.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="GUI\Register.cs">

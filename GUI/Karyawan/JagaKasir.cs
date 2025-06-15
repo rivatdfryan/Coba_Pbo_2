@@ -16,8 +16,8 @@ namespace Kinar_Bakery.GUI
     public partial class JagaKasir : Form
     {
         private readonly int _id_user;
-        private readonly KontrolerProduk _kontrolerProduk;
-        private readonly KontrolerTransaksi _kontrolerTransaksi;
+        private readonly KonteksProduk _kontrolerProduk;
+        private readonly KonteksTransaksi _kontrolerTransaksi;
         private readonly DatabaseConnection _dbConnection;
 
         private Produk _produkDipilih;
@@ -27,8 +27,8 @@ namespace Kinar_Bakery.GUI
             InitializeComponent();
             _id_user = id_user;
 
-            _kontrolerProduk = new KontrolerProduk();
-            _kontrolerTransaksi = new KontrolerTransaksi();
+            _kontrolerProduk = new KonteksProduk();
+            _kontrolerTransaksi = new KonteksTransaksi();
             _dbConnection = new DatabaseConnection();
 
             _keranjang = new List<ItemKeranjang>();
@@ -200,7 +200,7 @@ namespace Kinar_Bakery.GUI
             try
             {
                 this.Hide();
-                new Presensi(_id_user).ShowDialog();
+                new PresensiKaryawan(_id_user).ShowDialog();
                 this.Show();
             }
             catch (Exception ex)

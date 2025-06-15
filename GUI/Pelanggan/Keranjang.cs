@@ -1,6 +1,5 @@
 ﻿using Kinar_Bakery.Controller;
 using Kinar_Bakery.GUI.Pelanggan;
-using Kinar_Bakery.Model;
 using Npgsql;
 using System;
 using System.Data;
@@ -11,14 +10,14 @@ namespace Kinar_Bakery.GUI
     public partial class Keranjang : Form
     {
         private readonly int _id_user;
-        private readonly KontrolerProduk _kontroler;
+        private readonly KonteksProduk _kontroler;
         private readonly KonteksTransaksi _konteksTransaksi;
 
         public Keranjang(int id_user)
         {
             InitializeComponent();
             _id_user = id_user;
-            _kontroler = new KontrolerProduk();
+            _kontroler = new KonteksProduk();
             _konteksTransaksi = new KonteksTransaksi();
             LoadKeranjang();
         }

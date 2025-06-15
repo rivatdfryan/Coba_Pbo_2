@@ -16,7 +16,7 @@ namespace Kinar_Bakery.GUI.Pelanggan
     public partial class BestSeller : Form
     {
         private readonly int _id_user;
-        private readonly KontrolerProduk _kontroler;
+        private readonly KonteksProduk _kontroler;
 
         public BestSeller(int id_user)
         {
@@ -24,7 +24,7 @@ namespace Kinar_Bakery.GUI.Pelanggan
             {
                 InitializeComponent();
                 _id_user = id_user;
-                _kontroler = new KontrolerProduk();
+                _kontroler = new KonteksProduk();
                 LoadData();
                 dataGridViewBestSeller.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
                 dataGridViewBestSeller.MultiSelect = false;
@@ -186,7 +186,7 @@ namespace Kinar_Bakery.GUI.Pelanggan
             try
             {
                 this.Hide();
-                new HomeDasboardAdmin(_id_user).ShowDialog();
+                new HomeDashboardPelanggan(_id_user).ShowDialog();
                 this.Show();
             }
             catch (Exception ex)

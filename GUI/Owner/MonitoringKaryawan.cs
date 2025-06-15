@@ -1,4 +1,5 @@
-﻿using Kinar_Bakery.GUI.Owner;
+﻿using Kinar_Bakery.Controller;
+using Kinar_Bakery.GUI.Owner;
 using Kinar_Bakery.Model;
 using System;
 using System.Data;

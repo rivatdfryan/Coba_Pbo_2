@@ -1,4 +1,5 @@
-﻿using Kinar_Bakery.GUI.Pelanggan;
+﻿using Kinar_Bakery.Controller;
+using Kinar_Bakery.GUI.Pelanggan;
 using Kinar_Bakery.Model;
 using System;
 using System.Windows.Forms;

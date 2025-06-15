@@ -10,7 +10,7 @@ namespace Kinar_Bakery
 {
     public partial class HomeDashboardPelanggan : Form
     {
-        private readonly KontrolerPengguna _kontroler;
+        private readonly KonteksPengguna _kontroler;
         private readonly int _id_user;
 
         public HomeDashboardPelanggan(int id_user)
@@ -19,7 +19,7 @@ namespace Kinar_Bakery
             {
                 InitializeComponent();
                 _id_user = id_user;
-                _kontroler = new KontrolerPengguna();
+                _kontroler = new KonteksPengguna();
             }
             catch (Exception ex)
             {
@@ -43,7 +43,7 @@ namespace Kinar_Bakery
         {
             try
             {
-                var pengguna = _kontroler.AmbilPengguna(_id_user);
+                var pengguna = _kontroler.AmbilBerdasarkanId(_id_user);
                 if (pengguna != null)
                 {
                     lblNama.Text = $"Nama: {pengguna.Nama ?? ""}";

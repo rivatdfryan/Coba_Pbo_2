@@ -9,7 +9,7 @@ namespace Kinar_Bakery.GUI
     public partial class Katalog : Form
     {
         private readonly int _id_user;
-        private readonly KontrolerProduk _kontroler;
+        private readonly KonteksProduk _kontroler;
 
         public Katalog(int id_user)
         {
@@ -17,7 +17,7 @@ namespace Kinar_Bakery.GUI
             {
                 InitializeComponent();
                 _id_user = id_user;
-                _kontroler = new KontrolerProduk();
+                _kontroler = new KonteksProduk();
                 LoadData();
                 dataGridViewKatalog.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
                 dataGridViewKatalog.MultiSelect = false;
@@ -32,7 +32,7 @@ namespace Kinar_Bakery.GUI
         {
             try
             {
-                var katalogList = _kontroler.AmbilSemuaProduk();
+                var katalogList = _kontroler.AmbilSemua();
                 dataGridViewKatalog.DataSource = katalogList;
                 dataGridViewKatalog.Columns["Id_produk"].HeaderText = "ID Produk";
                 dataGridViewKatalog.Columns["Nama"].HeaderText = "Nama Produk";
@@ -55,7 +55,7 @@ namespace Kinar_Bakery.GUI
             try
             {
                 var opsiUrut = comboBoxUrut.SelectedItem?.ToString();
-                dataGridViewKatalog.DataSource = _kontroler.AmbilSemuaProduk(opsiUrut);
+                dataGridViewKatalog.DataSource = _kontroler.AmbilSemua(opsiUrut);
             }
             catch (Exception ex)
             {

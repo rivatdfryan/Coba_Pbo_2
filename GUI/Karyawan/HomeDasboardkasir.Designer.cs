@@ -117,7 +117,7 @@
             btnTanggal.Name = "btnTanggal";
             btnTanggal.Size = new Size(75, 23);
             btnTanggal.TabIndex = 14;
-            btnTanggal.Text = "button1";
+            btnTanggal.Text = "simpan";
             btnTanggal.UseVisualStyleBackColor = true;
             btnTanggal.Click += btnTanggal_Click;
             // 

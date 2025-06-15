@@ -127,7 +127,7 @@
             btnSimpan.Name = "btnSimpan";
             btnSimpan.Size = new Size(75, 23);
             btnSimpan.TabIndex = 22;
-            btnSimpan.Text = "button1";
+            btnSimpan.Text = "Simpan";
             btnSimpan.UseVisualStyleBackColor = true;
             btnSimpan.Click += btnSimpan_Click_1;
             // 
@@ -324,7 +324,7 @@
             btnHomePelanggan.Text = "Home  ";
             btnHomePelanggan.TextAlign = ContentAlignment.MiddleRight;
             btnHomePelanggan.UseVisualStyleBackColor = false;
-           
+            btnHomePelanggan.Click += btnHomePelanggan_Click;
             // 
             // panel4
             // 

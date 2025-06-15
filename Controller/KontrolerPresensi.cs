@@ -1,8 +1,9 @@
-﻿using Npgsql;
+﻿using Kinar_Bakery.Model;
+using Npgsql;
 using System;
 using System.Data;
 
-namespace Kinar_Bakery.Model
+namespace Kinar_Bakery.Controller
 {
     public class KontrolerPresensi
     {
@@ -44,11 +45,16 @@ namespace Kinar_Bakery.Model
                 };
                 var result = dbConnection.ExecuteQuery(query, parameters);
                 double totalDurasi = 0;
+
                 foreach (DataRow row in result.Rows)
                 {
-                    TimeSpan masuk = (TimeSpan)row["jam_masuk"];
-                    TimeSpan keluar = (TimeSpan)row["jam_keluar"];
-                    totalDurasi += (keluar - masuk).TotalHours;
+                    TimeSpan? masuk = row["jam_masuk"] != DBNull.Value ? (TimeSpan?)row["jam_masuk"] : null;
+                    TimeSpan? keluar = row["jam_keluar"] != DBNull.Value ? (TimeSpan?)row["jam_keluar"] : null;
+
+                    if (masuk.HasValue && keluar.HasValue && keluar.Value > masuk.Value)
+                    {
+                        totalDurasi += (keluar.Value - masuk.Value).TotalHours;
+                    }
                 }
                 return totalDurasi;
             }
@@ -58,4 +64,4 @@ namespace Kinar_Bakery.Model
             }
         }
     }
-}
+}   

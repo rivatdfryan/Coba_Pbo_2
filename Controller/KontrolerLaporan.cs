@@ -1,5 +1,4 @@
-﻿// KontrolerLaporan.cs (di folder Controller)
-using Kinar_Bakery.Model;
+﻿using Kinar_Bakery.Model;
 using Npgsql;
 using System;
 using System.Data;
@@ -28,7 +27,6 @@ namespace Kinar_Bakery.Controller
         }
     }
 
-    // Implementasi konkret untuk Laporan Pembelian
     internal class LaporanPembelian : ILaporan
     {
         public DataTable AmbilData(DateTime tanggalAwal, DateTime tanggalAkhir)
@@ -51,7 +49,7 @@ namespace Kinar_Bakery.Controller
         }
     }
 
-    // Implementasi konkret untuk Laporan Penjualan
+
     internal class LaporanPenjualan : ILaporan
     {
         public DataTable AmbilData(DateTime tanggalAwal, DateTime tanggalAkhir)

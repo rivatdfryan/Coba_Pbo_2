@@ -2,7 +2,6 @@
 using Kinar_Bakery.GUI;
 using Kinar_Bakery.GUI.Pelanggan;
 using Kinar_Bakery.Model;
-using Kinar_Bakery.z;
 using Npgsql;
 using System;
 using System.Collections.Generic;
@@ -19,18 +18,18 @@ namespace Kinar_Bakery
     public partial class HomeDasboardkasir : Form
     {
         private readonly int _id_user;
-        private readonly KontrolerPengguna _kontrolerPengguna;
-        private readonly KontrolerTransaksi _kontrolerTransaksi;
+        private readonly KonteksPengguna _kontrolerPengguna;
+        private readonly KonteksTransaksi _kontrolerTransaksi;
         private readonly DatabaseConnection _dbConnection;
-        private readonly KontrolerPengguna _kontroler;
+        private readonly KonteksPengguna _kontroler;
 
 
         public HomeDasboardkasir(int id_user)
         {
             InitializeComponent();
             _id_user = id_user;
-            _kontrolerPengguna = new KontrolerPengguna();
-            _kontrolerTransaksi = new KontrolerTransaksi();
+            _kontrolerPengguna = new KonteksPengguna();
+            _kontrolerTransaksi = new KonteksTransaksi();
             _dbConnection = new DatabaseConnection();
 
             LoadDataAwal();
@@ -40,7 +39,7 @@ namespace Kinar_Bakery
         {
             try
             {
-                var pengguna = _kontrolerPengguna.AmbilPengguna(_id_user);
+                var pengguna = _kontrolerPengguna.AmbilBerdasarkanId(_id_user);
                 if (pengguna == null || pengguna.Role?.ToLower() != "karyawan")
                 {
                     MessageBox.Show("Akses ditolak. Anda bukan kasir!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);

@@ -353,8 +353,7 @@
               "RelativeToolTip": "Controller\\KonteksProduk.cs",
               "ViewState": "AgIAAMYAAAAAAAAAAAAzwPYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T15:15:19.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T15:15:19.758Z"
             },
             {
               "$type": "Document",
@@ -376,7 +375,7 @@
               "RelativeDocumentMoniker": "GUI\\Karyawan\\HomeDasboardkasir.cs",
               "ToolTip": "C:\\Users\\Asus\\Downloads\\PBO_KINAR_BAKERY\\GUI\\Karyawan\\HomeDasboardkasir.cs",
               "RelativeToolTip": "GUI\\Karyawan\\HomeDasboardkasir.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAPEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T02:24:53.552Z",
               "EditorCaption": ""
@@ -391,8 +390,7 @@
               "RelativeToolTip": "Controller\\KonteksPengguna.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAmwDcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T15:13:16.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T15:13:16.29Z"
             },
             {
               "$type": "Document",
@@ -404,8 +402,7 @@
               "RelativeToolTip": "Controller\\KontrolerPresensi.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T16:42:12.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T16:42:12.719Z"
             },
             {
               "$type": "Document",
@@ -430,8 +427,7 @@
               "RelativeToolTip": "GUI\\Karyawan\\HomeDasboardkasir.Designer.cs",
               "ViewState": "AgIAAHYBAAAAAAAAAAAewIkBAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T03:57:12.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T03:57:12.438Z"
             },
             {
               "$type": "Document",
@@ -455,8 +451,7 @@
               "ToolTip": "C:\\Users\\Asus\\Downloads\\PBO_KINAR_BAKERY\\GUI\\Pelanggan\\Katalog.cs [Design]",
               "RelativeToolTip": "GUI\\Pelanggan\\Katalog.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T12:23:32.975Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-13T12:23:32.975Z"
             },
             {
               "$type": "Document",
@@ -467,8 +462,7 @@
               "ToolTip": "C:\\Users\\Asus\\Downloads\\PBO_KINAR_BAKERY\\GUI\\Owner\\MonitoringKaryawan.cs [Design]",
               "RelativeToolTip": "GUI\\Owner\\MonitoringKaryawan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T13:55:55.408Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-10T13:55:55.408Z"
             },
             {
               "$type": "Document",
@@ -493,8 +487,7 @@
               "RelativeToolTip": "Model\\LaporanPenjualan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T05:18:00.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T05:18:00.395Z"
             },
             {
               "$type": "Document",
@@ -506,8 +499,7 @@
               "RelativeToolTip": "Model\\LaporanPembelian.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T05:17:24.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T05:17:24.033Z"
             },
             {
               "$type": "Document",
@@ -531,8 +523,7 @@
               "ToolTip": "C:\\Users\\Asus\\Downloads\\PBO_KINAR_BAKERY\\GUI\\Owner\\KelolaProduk.cs [Design]",
               "RelativeToolTip": "GUI\\Owner\\KelolaProduk.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T12:43:51.67Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-13T12:43:51.67Z"
             },
             {
               "$type": "Document",
@@ -568,7 +559,8 @@
               "RelativeToolTip": "GUI\\Pelanggan\\FormUbahPengguna.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAwFMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T20:58:24.116Z"
+              "WhenOpened": "2025-06-09T20:58:24.116Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -579,8 +571,7 @@
               "ToolTip": "C:\\Users\\Asus\\Downloads\\PBO_KINAR_BAKERY\\GUI\\Pelanggan\\FormUbahPengguna.cs [Design]",
               "RelativeToolTip": "GUI\\Pelanggan\\FormUbahPengguna.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T12:18:22.627Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-13T12:18:22.627Z"
             },
             {
               "$type": "Document",
@@ -592,8 +583,7 @@
               "RelativeToolTip": "GUI\\Pelanggan\\Keranjang.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAcwJ8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T01:15:59.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T01:15:59.495Z"
             },
             {
               "$type": "Document",
@@ -1153,8 +1143,7 @@
               "RelativeToolTip": "GUI\\Owner\\KelolaProduk.Designer.cs",
               "ViewState": "AgIAAB8BAAAAAAAAAAAAwDABAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T12:51:14.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T12:51:14.407Z"
             },
             {
               "$type": "Document",
@@ -1165,8 +1154,7 @@
               "ToolTip": "C:\\Users\\Asus\\Downloads\\PBO_KINAR_BAKERY\\GUI\\Owner\\KelolaProduk.resx",
               "RelativeToolTip": "GUI\\Owner\\KelolaProduk.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-06-13T12:51:13.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T12:51:13.567Z"
             },
             {
               "$type": "Document",
@@ -1214,8 +1202,7 @@
               "RelativeToolTip": "GUI\\Pelanggan\\Katalog.Designer.cs",
               "ViewState": "AgIAAFEBAAAAAAAAAAAlwGIBAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T14:26:59.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T14:26:59.253Z"
             },
             {
               "$type": "Document",
@@ -1227,8 +1214,7 @@
               "RelativeToolTip": "GUI\\Pelanggan\\FormUbahPengguna.Designer.cs",
               "ViewState": "AgIAADoBAAAAAAAAAAAnwEYBAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T10:58:04.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T10:58:04.536Z"
             },
             {
               "$type": "Document",
